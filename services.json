@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "service_name": "Wedding Photography",
+  "service_data": "Best Wuality Wedding photography with Dslr & drome Shoot",
+  "price": 1500,
+  "img": "https:\/\/cdn0.weddingwire.in\/articles\/images\/9\/0\/8\/6\/img_16809\/t30_creative-wedding-photography-avinash-dhoundhiyal-photography-lead-image.jpg"
+ },
+ {
+  "id": 2,
+  "service_name": "Bithday Photpgraphy",
+  "service_data": "Best Birthday photography with dslr and Grafical support",
+  "price": 750,
+  "img": "https:\/\/babybumpphoto.in\/orbitarc_uploads\/2017\/10\/kids-photography-children-photography-13.jpg"
+ },
+ {
+  "id": 3,
+  "service_name": "Model Photography",
+  "service_data": "Best Model Photography with Bright Light studio and Profesonal camera with profesonal camera man.",
+  "price": 2500,
+  "img": "https:\/\/previews.123rf.com\/images\/belchonock\/belchonock1803\/belchonock180317372\/97145906-photographer-taking-picture-of-model-in-studio.jpg"
+ },
+ {
+  "id": 4,
+  "service_name": "Event Photographer",
+  "service_data": "Best Event Photographer with Drone Multiple camera angel view and Profesonal video render",
+  "price": 3500,
+  "img": "https:\/\/photonify.com\/wp-content\/uploads\/2019\/01\/event-photography-1000x750.jpg"
+ },
+ {
+  "id": 5,
+  "service_name": "Govment Event Photographer",
+  "service_data": "Govment Event photographer With Profesonal Camera and Lence.",
+  "price": 1300,
+  "img": "https:\/\/www.elysemarksimaging.com\/wp-content\/uploads\/2015\/10\/corporate-event-photography-westminster-001-1.jpg"
+ },
+ {
+  "id": 6,
+  "service_name": "Wild Life photographer",
+  "service_data": "Travel and Wild life photographer  with maximum 15 days support with thoused and thousend photo click and edit.",
+  "price": 5000,
+  "img": "https:\/\/www.outlookindia.com\/outlooktraveller\/public\/uploads\/articles\/explore\/wildlife_photography_feature_image.jpg"
+ }
+]
