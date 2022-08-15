@@ -1,0 +1,1698 @@
+[
+  {
+    "ID": 272,
+    "Brand_Type_Name": "."
+  },
+  {
+    "ID": 255,
+    "Brand_Type_Name": "AA"
+  },
+  {
+    "ID": 167,
+    "Brand_Type_Name": "ABBOTT"
+  },
+  {
+    "ID": 383,
+    "Brand_Type_Name": "ACELABS"
+  },
+  {
+    "ID": 25,
+    "Brand_Type_Name": "ACI"
+  },
+  {
+    "ID": 73,
+    "Brand_Type_Name": "ACME"
+  },
+  {
+    "ID": 374,
+    "Brand_Type_Name": "ACT II"
+  },
+  {
+    "ID": 39,
+    "Brand_Type_Name": "ACTIVO"
+  },
+  {
+    "ID": 254,
+    "Brand_Type_Name": "AG"
+  },
+  {
+    "ID": 401,
+    "Brand_Type_Name": "AG FOOD"
+  },
+  {
+    "ID": 251,
+    "Brand_Type_Name": "AKIJ"
+  },
+  {
+    "ID": 317,
+    "Brand_Type_Name": "ALEX"
+  },
+  {
+    "ID": 74,
+    "Brand_Type_Name": "ALFa"
+  },
+  {
+    "ID": 323,
+    "Brand_Type_Name": "ALL TIME"
+  },
+  {
+    "ID": 293,
+    "Brand_Type_Name": "ALMARAI"
+  },
+  {
+    "ID": 384,
+    "Brand_Type_Name": "ALOEVERA"
+  },
+  {
+    "ID": 139,
+    "Brand_Type_Name": "ALPENLIEBE"
+  },
+  {
+    "ID": 362,
+    "Brand_Type_Name": "ALPHA BABY"
+  },
+  {
+    "ID": 77,
+    "Brand_Type_Name": "ALSHIFA"
+  },
+  {
+    "ID": 185,
+    "Brand_Type_Name": "AM PM"
+  },
+  {
+    "ID": 80,
+    "Brand_Type_Name": "AMPRO"
+  },
+  {
+    "ID": 391,
+    "Brand_Type_Name": "AMUL"
+  },
+  {
+    "ID": 302,
+    "Brand_Type_Name": "ANGELIC"
+  },
+  {
+    "ID": 137,
+    "Brand_Type_Name": "APLENLIEBE"
+  },
+  {
+    "ID": 356,
+    "Brand_Type_Name": "AQUAFRESH"
+  },
+  {
+    "ID": 316,
+    "Brand_Type_Name": "ARIEL"
+  },
+  {
+    "ID": 1,
+    "Brand_Type_Name": "ARONG"
+  },
+  {
+    "ID": 63,
+    "Brand_Type_Name": "ATIF SUPER MART"
+  },
+  {
+    "ID": 404,
+    "Brand_Type_Name": "AXE"
+  },
+  {
+    "ID": 102,
+    "Brand_Type_Name": "BAALI"
+  },
+  {
+    "ID": 96,
+    "Brand_Type_Name": "BACTROL"
+  },
+  {
+    "ID": 67,
+    "Brand_Type_Name": "BAKEMANS"
+  },
+  {
+    "ID": 70,
+    "Brand_Type_Name": "BAKERS FARM"
+  },
+  {
+    "ID": 21,
+    "Brand_Type_Name": "BANGAS"
+  },
+  {
+    "ID": 56,
+    "Brand_Type_Name": "BANOFUL"
+  },
+  {
+    "ID": 171,
+    "Brand_Type_Name": "BAOMA"
+  },
+  {
+    "ID": 8,
+    "Brand_Type_Name": "BASHUNDHARA"
+  },
+  {
+    "ID": 11,
+    "Brand_Type_Name": "BD FOODS"
+  },
+  {
+    "ID": 65,
+    "Brand_Type_Name": "BELLEAME"
+  },
+  {
+    "ID": 206,
+    "Brand_Type_Name": "BELO"
+  },
+  {
+    "ID": 219,
+    "Brand_Type_Name": "BENGAL"
+  },
+  {
+    "ID": 402,
+    "Brand_Type_Name": "BENGLE MEAT"
+  },
+  {
+    "ID": 308,
+    "Brand_Type_Name": "BENOSTAR"
+  },
+  {
+    "ID": 162,
+    "Brand_Type_Name": "BHAIYA"
+  },
+  {
+    "ID": 296,
+    "Brand_Type_Name": "BIG BUBBLE"
+  },
+  {
+    "ID": 411,
+    "Brand_Type_Name": "BIGEN"
+  },
+  {
+    "ID": 303,
+    "Brand_Type_Name": "BIOMIL"
+  },
+  {
+    "ID": 4,
+    "Brand_Type_Name": "BISKCLUB"
+  },
+  {
+    "ID": 198,
+    "Brand_Type_Name": "BLACK PANTHER"
+  },
+  {
+    "ID": 420,
+    "Brand_Type_Name": "BLUE"
+  },
+  {
+    "ID": 237,
+    "Brand_Type_Name": "BOLT"
+  },
+  {
+    "ID": 27,
+    "Brand_Type_Name": "BOMBAY SWEETS"
+  },
+  {
+    "ID": 91,
+    "Brand_Type_Name": "BONOFUL"
+  },
+  {
+    "ID": 173,
+    "Brand_Type_Name": "BOOST"
+  },
+  {
+    "ID": 196,
+    "Brand_Type_Name": "BOROPLUS"
+  },
+  {
+    "ID": 291,
+    "Brand_Type_Name": "BREAK"
+  },
+  {
+    "ID": 390,
+    "Brand_Type_Name": "BREEZ"
+  },
+  {
+    "ID": 166,
+    "Brand_Type_Name": "BRU"
+  },
+  {
+    "ID": 121,
+    "Brand_Type_Name": "CADBURY"
+  },
+  {
+    "ID": 405,
+    "Brand_Type_Name": "CADILA"
+  },
+  {
+    "ID": 204,
+    "Brand_Type_Name": "CANTON"
+  },
+  {
+    "ID": 263,
+    "Brand_Type_Name": "CBL MUNCHEE"
+  },
+  {
+    "ID": 138,
+    "Brand_Type_Name": "CENTER FRUIT"
+  },
+  {
+    "ID": 33,
+    "Brand_Type_Name": "CHAKA"
+  },
+  {
+    "ID": 262,
+    "Brand_Type_Name": "CHAMAK"
+  },
+  {
+    "ID": 375,
+    "Brand_Type_Name": "CHAMPION"
+  },
+  {
+    "ID": 110,
+    "Brand_Type_Name": "CHASI"
+  },
+  {
+    "ID": 177,
+    "Brand_Type_Name": "CHOPSTICK"
+  },
+  {
+    "ID": 168,
+    "Brand_Type_Name": "CIF"
+  },
+  {
+    "ID": 378,
+    "Brand_Type_Name": "CLARISS"
+  },
+  {
+    "ID": 238,
+    "Brand_Type_Name": "CLEAN MASTER"
+  },
+  {
+    "ID": 48,
+    "Brand_Type_Name": "CLEANZY"
+  },
+  {
+    "ID": 153,
+    "Brand_Type_Name": "CLEAR"
+  },
+  {
+    "ID": 154,
+    "Brand_Type_Name": "CLINIC PLUS"
+  },
+  {
+    "ID": 129,
+    "Brand_Type_Name": "CLOSEUP"
+  },
+  {
+    "ID": 143,
+    "Brand_Type_Name": "COCACOLA"
+  },
+  {
+    "ID": 157,
+    "Brand_Type_Name": "COCOLA"
+  },
+  {
+    "ID": 161,
+    "Brand_Type_Name": "COLGATE"
+  },
+  {
+    "ID": 103,
+    "Brand_Type_Name": "COLORMATE"
+  },
+  {
+    "ID": 128,
+    "Brand_Type_Name": "COMPLAN"
+  },
+  {
+    "ID": 58,
+    "Brand_Type_Name": "CONFIDENCE"
+  },
+  {
+    "ID": 234,
+    "Brand_Type_Name": "COOL"
+  },
+  {
+    "ID": 192,
+    "Brand_Type_Name": "COSCO"
+  },
+  {
+    "ID": 246,
+    "Brand_Type_Name": "CREBY"
+  },
+  {
+    "ID": 92,
+    "Brand_Type_Name": "CUTE"
+  },
+  {
+    "ID": 76,
+    "Brand_Type_Name": "DABUR"
+  },
+  {
+    "ID": 9,
+    "Brand_Type_Name": "DAN CAKE"
+  },
+  {
+    "ID": 200,
+    "Brand_Type_Name": "DANIEL"
+  },
+  {
+    "ID": 10,
+    "Brand_Type_Name": "DANISH"
+  },
+  {
+    "ID": 178,
+    "Brand_Type_Name": "DANO"
+  },
+  {
+    "ID": 380,
+    "Brand_Type_Name": "DAVIDOOF"
+  },
+  {
+    "ID": 55,
+    "Brand_Type_Name": "DEKKO"
+  },
+  {
+    "ID": 313,
+    "Brand_Type_Name": "DELI"
+  },
+  {
+    "ID": 266,
+    "Brand_Type_Name": "DETOS"
+  },
+  {
+    "ID": 43,
+    "Brand_Type_Name": "DETTOL"
+  },
+  {
+    "ID": 158,
+    "Brand_Type_Name": "DEW"
+  },
+  {
+    "ID": 226,
+    "Brand_Type_Name": "DIAMOND"
+  },
+  {
+    "ID": 18,
+    "Brand_Type_Name": "DIPLOMA"
+  },
+  {
+    "ID": 336,
+    "Brand_Type_Name": "D-NEE"
+  },
+  {
+    "ID": 165,
+    "Brand_Type_Name": "DOODLES"
+  },
+  {
+    "ID": 15,
+    "Brand_Type_Name": "DOVE"
+  },
+  {
+    "ID": 309,
+    "Brand_Type_Name": "DR. H&H"
+  },
+  {
+    "ID": 421,
+    "Brand_Type_Name": "DRAGON"
+  },
+  {
+    "ID": 119,
+    "Brand_Type_Name": "DREAM"
+  },
+  {
+    "ID": 236,
+    "Brand_Type_Name": "DREAM BABAY"
+  },
+  {
+    "ID": 257,
+    "Brand_Type_Name": "DRINKO"
+  },
+  {
+    "ID": 193,
+    "Brand_Type_Name": "DYNA"
+  },
+  {
+    "ID": 84,
+    "Brand_Type_Name": "EGG"
+  },
+  {
+    "ID": 208,
+    "Brand_Type_Name": "EMAMI"
+  },
+  {
+    "ID": 369,
+    "Brand_Type_Name": "EMIRATES"
+  },
+  {
+    "ID": 98,
+    "Brand_Type_Name": "ENCHANTEUR"
+  },
+  {
+    "ID": 199,
+    "Brand_Type_Name": "ENGLE"
+  },
+  {
+    "ID": 280,
+    "Brand_Type_Name": "ENO"
+  },
+  {
+    "ID": 127,
+    "Brand_Type_Name": "ENSURE"
+  },
+  {
+    "ID": 294,
+    "Brand_Type_Name": "EUROPE"
+  },
+  {
+    "ID": 332,
+    "Brand_Type_Name": "EVERSOFT"
+  },
+  {
+    "ID": 186,
+    "Brand_Type_Name": "EXPERT"
+  },
+  {
+    "ID": 45,
+    "Brand_Type_Name": "EZEE"
+  },
+  {
+    "ID": 335,
+    "Brand_Type_Name": "Fa"
+  },
+  {
+    "ID": 286,
+    "Brand_Type_Name": "FAALIN"
+  },
+  {
+    "ID": 311,
+    "Brand_Type_Name": "FABER CASTELL"
+  },
+  {
+    "ID": 326,
+    "Brand_Type_Name": "FABER-CASTELL"
+  },
+  {
+    "ID": 17,
+    "Brand_Type_Name": "FAIR & LOVELY"
+  },
+  {
+    "ID": 145,
+    "Brand_Type_Name": "FANTA"
+  },
+  {
+    "ID": 361,
+    "Brand_Type_Name": "FARLIN"
+  },
+  {
+    "ID": 265,
+    "Brand_Type_Name": "FARMLAND"
+  },
+  {
+    "ID": 187,
+    "Brand_Type_Name": "FAST WASH"
+  },
+  {
+    "ID": 22,
+    "Brand_Type_Name": "FAY"
+  },
+  {
+    "ID": 256,
+    "Brand_Type_Name": "FEVECOL"
+  },
+  {
+    "ID": 253,
+    "Brand_Type_Name": "FEVIKWIK"
+  },
+  {
+    "ID": 385,
+    "Brand_Type_Name": "FIAMA"
+  },
+  {
+    "ID": 274,
+    "Brand_Type_Name": "FINEST COLD DRAWN"
+  },
+  {
+    "ID": 49,
+    "Brand_Type_Name": "FINIS"
+  },
+  {
+    "ID": 355,
+    "Brand_Type_Name": "FOGG"
+  },
+  {
+    "ID": 184,
+    "Brand_Type_Name": "FORMULA"
+  },
+  {
+    "ID": 277,
+    "Brand_Type_Name": "FOSTER CLARK'S"
+  },
+  {
+    "ID": 295,
+    "Brand_Type_Name": "FOX'S"
+  },
+  {
+    "ID": 156,
+    "Brand_Type_Name": "FREEDOM"
+  },
+  {
+    "ID": 59,
+    "Brand_Type_Name": "FRESH"
+  },
+  {
+    "ID": 314,
+    "Brand_Type_Name": "FRESHMAKER"
+  },
+  {
+    "ID": 394,
+    "Brand_Type_Name": "GALAXY"
+  },
+  {
+    "ID": 409,
+    "Brand_Type_Name": "GARDEN FRESH"
+  },
+  {
+    "ID": 105,
+    "Brand_Type_Name": "GARNIER"
+  },
+  {
+    "ID": 53,
+    "Brand_Type_Name": "GEMS BOND"
+  },
+  {
+    "ID": 260,
+    "Brand_Type_Name": "GENIUS SAFE"
+  },
+  {
+    "ID": 396,
+    "Brand_Type_Name": "GENSTAR"
+  },
+  {
+    "ID": 325,
+    "Brand_Type_Name": "GEOMETRY BOX"
+  },
+  {
+    "ID": 30,
+    "Brand_Type_Name": "GHARI"
+  },
+  {
+    "ID": 227,
+    "Brand_Type_Name": "GILLETTE"
+  },
+  {
+    "ID": 41,
+    "Brand_Type_Name": "GLITTER"
+  },
+  {
+    "ID": 239,
+    "Brand_Type_Name": "GLOBE"
+  },
+  {
+    "ID": 94,
+    "Brand_Type_Name": "GODREJ"
+  },
+  {
+    "ID": 12,
+    "Brand_Type_Name": "GOLD MARK"
+  },
+  {
+    "ID": 135,
+    "Brand_Type_Name": "GOLDEN HARVEST"
+  },
+  {
+    "ID": 151,
+    "Brand_Type_Name": "GOOD KNIGHT"
+  },
+  {
+    "ID": 310,
+    "Brand_Type_Name": "GOOD LUCK"
+  },
+  {
+    "ID": 109,
+    "Brand_Type_Name": "GREEN TOUCH"
+  },
+  {
+    "ID": 287,
+    "Brand_Type_Name": "HAJMOLA"
+  },
+  {
+    "ID": 368,
+    "Brand_Type_Name": "HAMDARD"
+  },
+  {
+    "ID": 66,
+    "Brand_Type_Name": "HAQUE"
+  },
+  {
+    "ID": 307,
+    "Brand_Type_Name": "HASAN'S"
+  },
+  {
+    "ID": 403,
+    "Brand_Type_Name": "HAVOC"
+  },
+  {
+    "ID": 347,
+    "Brand_Type_Name": "HE"
+  },
+  {
+    "ID": 169,
+    "Brand_Type_Name": "HEINZ"
+  },
+  {
+    "ID": 104,
+    "Brand_Type_Name": "HENNA"
+  },
+  {
+    "ID": 97,
+    "Brand_Type_Name": "HIMALAYA"
+  },
+  {
+    "ID": 230,
+    "Brand_Type_Name": "HINTA"
+  },
+  {
+    "ID": 174,
+    "Brand_Type_Name": "HORLICKS"
+  },
+  {
+    "ID": 329,
+    "Brand_Type_Name": "HORSE"
+  },
+  {
+    "ID": 377,
+    "Brand_Type_Name": "HOSEN"
+  },
+  {
+    "ID": 292,
+    "Brand_Type_Name": "HUBBA BUBBA"
+  },
+  {
+    "ID": 407,
+    "Brand_Type_Name": "HUGGIESE"
+  },
+  {
+    "ID": 288,
+    "Brand_Type_Name": "HYGIENE"
+  },
+  {
+    "ID": 261,
+    "Brand_Type_Name": "ICE COOL"
+  },
+  {
+    "ID": 351,
+    "Brand_Type_Name": "IDEAL"
+  },
+  {
+    "ID": 64,
+    "Brand_Type_Name": "IFAD"
+  },
+  {
+    "ID": 398,
+    "Brand_Type_Name": "IGLOO"
+  },
+  {
+    "ID": 348,
+    "Brand_Type_Name": "IMPACT"
+  },
+  {
+    "ID": 306,
+    "Brand_Type_Name": "IMPERIAL"
+  },
+  {
+    "ID": 61,
+    "Brand_Type_Name": "INDIA GATE"
+  },
+  {
+    "ID": 209,
+    "Brand_Type_Name": "INDULEKHA"
+  },
+  {
+    "ID": 382,
+    "Brand_Type_Name": "IRISH SPRING"
+  },
+  {
+    "ID": 24,
+    "Brand_Type_Name": "ISPAHANI"
+  },
+  {
+    "ID": 220,
+    "Brand_Type_Name": "JAFFLONG"
+  },
+  {
+    "ID": 416,
+    "Brand_Type_Name": "JAYAN"
+  },
+  {
+    "ID": 44,
+    "Brand_Type_Name": "JET"
+  },
+  {
+    "ID": 159,
+    "Brand_Type_Name": "JHATPAT"
+  },
+  {
+    "ID": 244,
+    "Brand_Type_Name": "JHONSONS"
+  },
+  {
+    "ID": 318,
+    "Brand_Type_Name": "JOHNSON'S®"
+  },
+  {
+    "ID": 150,
+    "Brand_Type_Name": "JOOM"
+  },
+  {
+    "ID": 216,
+    "Brand_Type_Name": "JOYA"
+  },
+  {
+    "ID": 149,
+    "Brand_Type_Name": "JUI"
+  },
+  {
+    "ID": 371,
+    "Brand_Type_Name": "JULIE"
+  },
+  {
+    "ID": 386,
+    "Brand_Type_Name": "KAMCO"
+  },
+  {
+    "ID": 312,
+    "Brand_Type_Name": "KANGARO"
+  },
+  {
+    "ID": 344,
+    "Brand_Type_Name": "KAVERI"
+  },
+  {
+    "ID": 136,
+    "Brand_Type_Name": "KAZI & KAZI"
+  },
+  {
+    "ID": 176,
+    "Brand_Type_Name": "KAZI FARMS"
+  },
+  {
+    "ID": 222,
+    "Brand_Type_Name": "KELLY'S"
+  },
+  {
+    "ID": 54,
+    "Brand_Type_Name": "KHAN"
+  },
+  {
+    "ID": 69,
+    "Brand_Type_Name": "KIDDO"
+  },
+  {
+    "ID": 218,
+    "Brand_Type_Name": "KIDSTAR"
+  },
+  {
+    "ID": 419,
+    "Brand_Type_Name": "KINDER JOY"
+  },
+  {
+    "ID": 321,
+    "Brand_Type_Name": "KING BELL"
+  },
+  {
+    "ID": 120,
+    "Brand_Type_Name": "KING GUM"
+  },
+  {
+    "ID": 118,
+    "Brand_Type_Name": "KINGSJOY"
+  },
+  {
+    "ID": 3,
+    "Brand_Type_Name": "KISHWAN"
+  },
+  {
+    "ID": 116,
+    "Brand_Type_Name": "KITKAT"
+  },
+  {
+    "ID": 191,
+    "Brand_Type_Name": "KLEEN"
+  },
+  {
+    "ID": 283,
+    "Brand_Type_Name": "KODOMO"
+  },
+  {
+    "ID": 267,
+    "Brand_Type_Name": "KOLSON"
+  },
+  {
+    "ID": 235,
+    "Brand_Type_Name": "KOOL"
+  },
+  {
+    "ID": 248,
+    "Brand_Type_Name": "KSHORE"
+  },
+  {
+    "ID": 213,
+    "Brand_Type_Name": "KUMARIKA"
+  },
+  {
+    "ID": 113,
+    "Brand_Type_Name": "KURKURE"
+  },
+  {
+    "ID": 400,
+    "Brand_Type_Name": "LABAN"
+  },
+  {
+    "ID": 6,
+    "Brand_Type_Name": "LACTOGEN"
+  },
+  {
+    "ID": 42,
+    "Brand_Type_Name": "LAFZ"
+  },
+  {
+    "ID": 334,
+    "Brand_Type_Name": "LAKME"
+  },
+  {
+    "ID": 379,
+    "Brand_Type_Name": "LAOLIVA"
+  },
+  {
+    "ID": 114,
+    "Brand_Type_Name": "LAYS"
+  },
+  {
+    "ID": 424,
+    "Brand_Type_Name": "LE BLANC"
+  },
+  {
+    "ID": 241,
+    "Brand_Type_Name": "LEO"
+  },
+  {
+    "ID": 13,
+    "Brand_Type_Name": "LIFEBUOY"
+  },
+  {
+    "ID": 107,
+    "Brand_Type_Name": "LIGION"
+  },
+  {
+    "ID": 301,
+    "Brand_Type_Name": "LIHAMA"
+  },
+  {
+    "ID": 360,
+    "Brand_Type_Name": "LINCO"
+  },
+  {
+    "ID": 359,
+    "Brand_Type_Name": "LION"
+  },
+  {
+    "ID": 284,
+    "Brand_Type_Name": "LIPTON"
+  },
+  {
+    "ID": 319,
+    "Brand_Type_Name": "LISTERINE"
+  },
+  {
+    "ID": 194,
+    "Brand_Type_Name": "LIVANA"
+  },
+  {
+    "ID": 297,
+    "Brand_Type_Name": "LIVON"
+  },
+  {
+    "ID": 247,
+    "Brand_Type_Name": "LMKANG"
+  },
+  {
+    "ID": 62,
+    "Brand_Type_Name": "LOCAL"
+  },
+  {
+    "ID": 123,
+    "Brand_Type_Name": "LOTTE"
+  },
+  {
+    "ID": 250,
+    "Brand_Type_Name": "LOTUS"
+  },
+  {
+    "ID": 214,
+    "Brand_Type_Name": "LUCY"
+  },
+  {
+    "ID": 14,
+    "Brand_Type_Name": "LUX"
+  },
+  {
+    "ID": 79,
+    "Brand_Type_Name": "MacCoffee"
+  },
+  {
+    "ID": 353,
+    "Brand_Type_Name": "MADHUBAN"
+  },
+  {
+    "ID": 197,
+    "Brand_Type_Name": "MAGIC"
+  },
+  {
+    "ID": 279,
+    "Brand_Type_Name": "MAGICA"
+  },
+  {
+    "ID": 242,
+    "Brand_Type_Name": "MAJIX"
+  },
+  {
+    "ID": 172,
+    "Brand_Type_Name": "MALTOVA"
+  },
+  {
+    "ID": 23,
+    "Brand_Type_Name": "MAMA"
+  },
+  {
+    "ID": 315,
+    "Brand_Type_Name": "MAMYPOKO"
+  },
+  {
+    "ID": 352,
+    "Brand_Type_Name": "MARLTOOVA"
+  },
+  {
+    "ID": 276,
+    "Brand_Type_Name": "MARS"
+  },
+  {
+    "ID": 182,
+    "Brand_Type_Name": "MATADOR"
+  },
+  {
+    "ID": 381,
+    "Brand_Type_Name": "MATTINA"
+  },
+  {
+    "ID": 195,
+    "Brand_Type_Name": "MEDIKER"
+  },
+  {
+    "ID": 142,
+    "Brand_Type_Name": "MEDIPLUS"
+  },
+  {
+    "ID": 357,
+    "Brand_Type_Name": "MEDIUM"
+  },
+  {
+    "ID": 300,
+    "Brand_Type_Name": "MEHRAN"
+  },
+  {
+    "ID": 350,
+    "Brand_Type_Name": "MEMORY"
+  },
+  {
+    "ID": 88,
+    "Brand_Type_Name": "MERIL"
+  },
+  {
+    "ID": 304,
+    "Brand_Type_Name": "MILO"
+  },
+  {
+    "ID": 322,
+    "Brand_Type_Name": "MIRINDA"
+  },
+  {
+    "ID": 278,
+    "Brand_Type_Name": "MIST. POTATO"
+  },
+  {
+    "ID": 370,
+    "Brand_Type_Name": "MISTIN"
+  },
+  {
+    "ID": 333,
+    "Brand_Type_Name": "MISTINE"
+  },
+  {
+    "ID": 81,
+    "Brand_Type_Name": "MODHUMOTI"
+  },
+  {
+    "ID": 36,
+    "Brand_Type_Name": "MODHUMOTY"
+  },
+  {
+    "ID": 366,
+    "Brand_Type_Name": "MOLFIX"
+  },
+  {
+    "ID": 330,
+    "Brand_Type_Name": "Mother's Smile"
+  },
+  {
+    "ID": 75,
+    "Brand_Type_Name": "MOWCHAK"
+  },
+  {
+    "ID": 305,
+    "Brand_Type_Name": "MR BRASSO"
+  },
+  {
+    "ID": 133,
+    "Brand_Type_Name": "MUM"
+  },
+  {
+    "ID": 108,
+    "Brand_Type_Name": "MUMTAZ"
+  },
+  {
+    "ID": 71,
+    "Brand_Type_Name": "NAPLES"
+  },
+  {
+    "ID": 99,
+    "Brand_Type_Name": "NEEM"
+  },
+  {
+    "ID": 163,
+    "Brand_Type_Name": "NEHAR"
+  },
+  {
+    "ID": 7,
+    "Brand_Type_Name": "NESCAFE"
+  },
+  {
+    "ID": 5,
+    "Brand_Type_Name": "NESTLE"
+  },
+  {
+    "ID": 245,
+    "Brand_Type_Name": "NIKITA"
+  },
+  {
+    "ID": 211,
+    "Brand_Type_Name": "NION"
+  },
+  {
+    "ID": 93,
+    "Brand_Type_Name": "NIVEA"
+  },
+  {
+    "ID": 231,
+    "Brand_Type_Name": "NOVELTY"
+  },
+  {
+    "ID": 393,
+    "Brand_Type_Name": "NUTRILIFE"
+  },
+  {
+    "ID": 83,
+    "Brand_Type_Name": "OLITALIA"
+  },
+  {
+    "ID": 68,
+    "Brand_Type_Name": "OLYMPIC"
+  },
+  {
+    "ID": 249,
+    "Brand_Type_Name": "ORAL B"
+  },
+  {
+    "ID": 115,
+    "Brand_Type_Name": "OREO"
+  },
+  {
+    "ID": 225,
+    "Brand_Type_Name": "ORGANIC"
+  },
+  {
+    "ID": 345,
+    "Brand_Type_Name": "OSCAR"
+  },
+  {
+    "ID": 207,
+    "Brand_Type_Name": "OUYUEY"
+  },
+  {
+    "ID": 229,
+    "Brand_Type_Name": "OVALTINE"
+  },
+  {
+    "ID": 331,
+    "Brand_Type_Name": "OXY GLOW"
+  },
+  {
+    "ID": 86,
+    "Brand_Type_Name": "PADMA"
+  },
+  {
+    "ID": 376,
+    "Brand_Type_Name": "PALMOLIVE"
+  },
+  {
+    "ID": 365,
+    "Brand_Type_Name": "PAMPERS"
+  },
+  {
+    "ID": 89,
+    "Brand_Type_Name": "PARACHUTE"
+  },
+  {
+    "ID": 285,
+    "Brand_Type_Name": "PARIS"
+  },
+  {
+    "ID": 147,
+    "Brand_Type_Name": "PARODONTAX"
+  },
+  {
+    "ID": 210,
+    "Brand_Type_Name": "PATANJOLY"
+  },
+  {
+    "ID": 349,
+    "Brand_Type_Name": "PEARS"
+  },
+  {
+    "ID": 126,
+    "Brand_Type_Name": "PEDIASURE"
+  },
+  {
+    "ID": 328,
+    "Brand_Type_Name": "PENTAG🌐N"
+  },
+  {
+    "ID": 387,
+    "Brand_Type_Name": "PEPE"
+  },
+  {
+    "ID": 181,
+    "Brand_Type_Name": "PEPSICO"
+  },
+  {
+    "ID": 130,
+    "Brand_Type_Name": "PEPSUDENT"
+  },
+  {
+    "ID": 117,
+    "Brand_Type_Name": "PERK"
+  },
+  {
+    "ID": 413,
+    "Brand_Type_Name": "POLAR"
+  },
+  {
+    "ID": 16,
+    "Brand_Type_Name": "PONDS"
+  },
+  {
+    "ID": 408,
+    "Brand_Type_Name": "POPPERS"
+  },
+  {
+    "ID": 2,
+    "Brand_Type_Name": "PRAN"
+  },
+  {
+    "ID": 423,
+    "Brand_Type_Name": "PRINGLES"
+  },
+  {
+    "ID": 354,
+    "Brand_Type_Name": "PRODENTALB"
+  },
+  {
+    "ID": 324,
+    "Brand_Type_Name": "PROTEKT"
+  },
+  {
+    "ID": 363,
+    "Brand_Type_Name": "PUR"
+  },
+  {
+    "ID": 82,
+    "Brand_Type_Name": "PUSTI"
+  },
+  {
+    "ID": 268,
+    "Brand_Type_Name": "QUAKER"
+  },
+  {
+    "ID": 373,
+    "Brand_Type_Name": "QUALITY"
+  },
+  {
+    "ID": 399,
+    "Brand_Type_Name": "RABEYA"
+  },
+  {
+    "ID": 57,
+    "Brand_Type_Name": "RADHUNI"
+  },
+  {
+    "ID": 406,
+    "Brand_Type_Name": "RANGS"
+  },
+  {
+    "ID": 273,
+    "Brand_Type_Name": "RASASI"
+  },
+  {
+    "ID": 32,
+    "Brand_Type_Name": "RAY"
+  },
+  {
+    "ID": 134,
+    "Brand_Type_Name": "RC"
+  },
+  {
+    "ID": 233,
+    "Brand_Type_Name": "RDA"
+  },
+  {
+    "ID": 358,
+    "Brand_Type_Name": "REACH"
+  },
+  {
+    "ID": 19,
+    "Brand_Type_Name": "RED COW"
+  },
+  {
+    "ID": 205,
+    "Brand_Type_Name": "REJON"
+  },
+  {
+    "ID": 243,
+    "Brand_Type_Name": "REXONA"
+  },
+  {
+    "ID": 29,
+    "Brand_Type_Name": "RIN"
+  },
+  {
+    "ID": 364,
+    "Brand_Type_Name": "RJ"
+  },
+  {
+    "ID": 47,
+    "Brand_Type_Name": "ROK"
+  },
+  {
+    "ID": 20,
+    "Brand_Type_Name": "ROMANIA"
+  },
+  {
+    "ID": 372,
+    "Brand_Type_Name": "RONY"
+  },
+  {
+    "ID": 410,
+    "Brand_Type_Name": "ROYAL MIRAGE"
+  },
+  {
+    "ID": 72,
+    "Brand_Type_Name": "RUCHI"
+  },
+  {
+    "ID": 85,
+    "Brand_Type_Name": "RUCHITA"
+  },
+  {
+    "ID": 281,
+    "Brand_Type_Name": "RUPCHADA"
+  },
+  {
+    "ID": 232,
+    "Brand_Type_Name": "SAFOLLA"
+  },
+  {
+    "ID": 298,
+    "Brand_Type_Name": "SAJEEB"
+  },
+  {
+    "ID": 95,
+    "Brand_Type_Name": "SANDALINA"
+  },
+  {
+    "ID": 37,
+    "Brand_Type_Name": "SAVLON"
+  },
+  {
+    "ID": 346,
+    "Brand_Type_Name": "SECRET"
+  },
+  {
+    "ID": 112,
+    "Brand_Type_Name": "SELECT+"
+  },
+  {
+    "ID": 183,
+    "Brand_Type_Name": "SENORA"
+  },
+  {
+    "ID": 264,
+    "Brand_Type_Name": "SENSITIVE"
+  },
+  {
+    "ID": 146,
+    "Brand_Type_Name": "SENSODYNE"
+  },
+  {
+    "ID": 111,
+    "Brand_Type_Name": "SEPNIL"
+  },
+  {
+    "ID": 100,
+    "Brand_Type_Name": "SEPTEX"
+  },
+  {
+    "ID": 212,
+    "Brand_Type_Name": "SESA"
+  },
+  {
+    "ID": 299,
+    "Brand_Type_Name": "SHAN"
+  },
+  {
+    "ID": 90,
+    "Brand_Type_Name": "SHAREAT"
+  },
+  {
+    "ID": 228,
+    "Brand_Type_Name": "SHARP"
+  },
+  {
+    "ID": 340,
+    "Brand_Type_Name": "SHEZAN"
+  },
+  {
+    "ID": 124,
+    "Brand_Type_Name": "SIGMA"
+  },
+  {
+    "ID": 395,
+    "Brand_Type_Name": "SK SPECIAL"
+  },
+  {
+    "ID": 337,
+    "Brand_Type_Name": "SMART"
+  },
+  {
+    "ID": 132,
+    "Brand_Type_Name": "SMC"
+  },
+  {
+    "ID": 392,
+    "Brand_Type_Name": "SMC PLUS"
+  },
+  {
+    "ID": 240,
+    "Brand_Type_Name": "SMILE"
+  },
+  {
+    "ID": 125,
+    "Brand_Type_Name": "SNICKERS"
+  },
+  {
+    "ID": 269,
+    "Brand_Type_Name": "SOMVUNATH"
+  },
+  {
+    "ID": 35,
+    "Brand_Type_Name": "SOWDAGOR"
+  },
+  {
+    "ID": 258,
+    "Brand_Type_Name": "SPEED"
+  },
+  {
+    "ID": 26,
+    "Brand_Type_Name": "SPRING"
+  },
+  {
+    "ID": 144,
+    "Brand_Type_Name": "SPRITE"
+  },
+  {
+    "ID": 388,
+    "Brand_Type_Name": "SSI"
+  },
+  {
+    "ID": 252,
+    "Brand_Type_Name": "STAR"
+  },
+  {
+    "ID": 339,
+    "Brand_Type_Name": "STARJUS"
+  },
+  {
+    "ID": 217,
+    "Brand_Type_Name": "STAYSAFE"
+  },
+  {
+    "ID": 202,
+    "Brand_Type_Name": "STUDIO X"
+  },
+  {
+    "ID": 170,
+    "Brand_Type_Name": "SUGAR FREE"
+  },
+  {
+    "ID": 290,
+    "Brand_Type_Name": "SUN"
+  },
+  {
+    "ID": 418,
+    "Brand_Type_Name": "SUNFEST"
+  },
+  {
+    "ID": 46,
+    "Brand_Type_Name": "SUNLIGHT"
+  },
+  {
+    "ID": 131,
+    "Brand_Type_Name": "SUNSILK"
+  },
+  {
+    "ID": 31,
+    "Brand_Type_Name": "SURF EXCEL"
+  },
+  {
+    "ID": 188,
+    "Brand_Type_Name": "SURJO"
+  },
+  {
+    "ID": 50,
+    "Brand_Type_Name": "SWIFT"
+  },
+  {
+    "ID": 148,
+    "Brand_Type_Name": "TAAZA"
+  },
+  {
+    "ID": 259,
+    "Brand_Type_Name": "TAKDHUM"
+  },
+  {
+    "ID": 282,
+    "Brand_Type_Name": "TANG"
+  },
+  {
+    "ID": 221,
+    "Brand_Type_Name": "TATA"
+  },
+  {
+    "ID": 342,
+    "Brand_Type_Name": "TEDDY BEAR"
+  },
+  {
+    "ID": 60,
+    "Brand_Type_Name": "TEER"
+  },
+  {
+    "ID": 367,
+    "Brand_Type_Name": "THAI"
+  },
+  {
+    "ID": 414,
+    "Brand_Type_Name": "TIARA"
+  },
+  {
+    "ID": 34,
+    "Brand_Type_Name": "TIBET"
+  },
+  {
+    "ID": 152,
+    "Brand_Type_Name": "TONG GARDEN"
+  },
+  {
+    "ID": 422,
+    "Brand_Type_Name": "TOP"
+  },
+  {
+    "ID": 122,
+    "Brand_Type_Name": "TOREN"
+  },
+  {
+    "ID": 201,
+    "Brand_Type_Name": "TORIKA BIKA"
+  },
+  {
+    "ID": 289,
+    "Brand_Type_Name": "TREET"
+  },
+  {
+    "ID": 155,
+    "Brand_Type_Name": "TRESEMME"
+  },
+  {
+    "ID": 417,
+    "Brand_Type_Name": "TRIO"
+  },
+  {
+    "ID": 160,
+    "Brand_Type_Name": "TRIPTI"
+  },
+  {
+    "ID": 38,
+    "Brand_Type_Name": "TRIX"
+  },
+  {
+    "ID": 180,
+    "Brand_Type_Name": "TWINKLE"
+  },
+  {
+    "ID": 140,
+    "Brand_Type_Name": "UJALA"
+  },
+  {
+    "ID": 101,
+    "Brand_Type_Name": "UNCLE BRANDS"
+  },
+  {
+    "ID": 190,
+    "Brand_Type_Name": "UNI WASH"
+  },
+  {
+    "ID": 52,
+    "Brand_Type_Name": "UNIK"
+  },
+  {
+    "ID": 175,
+    "Brand_Type_Name": "UNILIVER"
+  },
+  {
+    "ID": 51,
+    "Brand_Type_Name": "VANISH"
+  },
+  {
+    "ID": 87,
+    "Brand_Type_Name": "VASELINE"
+  },
+  {
+    "ID": 106,
+    "Brand_Type_Name": "VASMOL 33"
+  },
+  {
+    "ID": 275,
+    "Brand_Type_Name": "VATIKA"
+  },
+  {
+    "ID": 179,
+    "Brand_Type_Name": "VEET"
+  },
+  {
+    "ID": 40,
+    "Brand_Type_Name": "VIM"
+  },
+  {
+    "ID": 338,
+    "Brand_Type_Name": "VITACARE"
+  },
+  {
+    "ID": 389,
+    "Brand_Type_Name": "VIVINDA"
+  },
+  {
+    "ID": 341,
+    "Brand_Type_Name": "VIVO"
+  },
+  {
+    "ID": 343,
+    "Brand_Type_Name": "WELLS"
+  },
+  {
+    "ID": 28,
+    "Brand_Type_Name": "WHEEL"
+  },
+  {
+    "ID": 415,
+    "Brand_Type_Name": "WHITE TONE"
+  },
+  {
+    "ID": 224,
+    "Brand_Type_Name": "WIPER"
+  },
+  {
+    "ID": 203,
+    "Brand_Type_Name": "XPEL"
+  },
+  {
+    "ID": 223,
+    "Brand_Type_Name": "XPERT"
+  },
+  {
+    "ID": 189,
+    "Brand_Type_Name": "XTRA POWER"
+  },
+  {
+    "ID": 271,
+    "Brand_Type_Name": "Y©"
+  },
+  {
+    "ID": 270,
+    "Brand_Type_Name": "YARDLEY"
+  },
+  {
+    "ID": 164,
+    "Brand_Type_Name": ""
+  },
+  {
+    "ID": 327,
+    "Brand_Type_Name": "Y-PLUS+"
+  },
+  {
+    "ID": 320,
+    "Brand_Type_Name": "ZA n ZEE"
+  },
+  {
+    "ID": 412,
+    "Brand_Type_Name": "ZACK"
+  },
+  {
+    "ID": 78,
+    "Brand_Type_Name": "ZANDU"
+  },
+  {
+    "ID": 397,
+    "Brand_Type_Name": "ZAYTOON"
+  },
+  {
+    "ID": 215,
+    "Brand_Type_Name": "ZERO CAL"
+  },
+  {
+    "ID": 141,
+    "Brand_Type_Name": "ZUFRAN"
+  }
+]

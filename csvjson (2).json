@@ -1,0 +1,114 @@
+[
+  {
+    "Group_ID": 5,
+    "Group_Name": "BABY FOOD & CARE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 7,
+    "Group_Name": "CHOCOLATE & CANDY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 1,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 4,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 11,
+    "Group_Name": "FOOD",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 14,
+    "Group_Name": "FRUITS & VEGETABLES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 2,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 12,
+    "Group_Name": "NOODLES & PASTA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 13,
+    "Group_Name": "OTHERS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 8,
+    "Group_Name": "SAUCE, PICKLES & OTHER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 3,
+    "Group_Name": "SNAKS & COOKIES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 9,
+    "Group_Name": "SPREADS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 6,
+    "Group_Name": "STATIONERY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  },
+  {
+    "Group_ID": 10,
+    "Group_Name": "TOILETRIES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0,
+    "Cost_On_Sale": 0
+  }
+]

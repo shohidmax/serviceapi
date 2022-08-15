@@ -1,0 +1,1234 @@
+[
+  {
+    "Prd_ID": 1,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "MILK",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 2,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "UHT MILK",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 3,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "POWDER MILK",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 4,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "JUICE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 5,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "BISCUIT",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 6,
+    "Group_Name": "SPREADS",
+    "Product_Name": "JELLY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 7,
+    "Group_Name": "NOODLES & PASTA",
+    "Product_Name": "NOODLES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 8,
+    "Group_Name": "CHOCOLATE & CANDY",
+    "Product_Name": "CHOCOLATE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 9,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "TISSUE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 10,
+    "Group_Name": "BABY FOOD & CARE",
+    "Product_Name": "CERELAC",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 11,
+    "Group_Name": "BABY FOOD & CARE",
+    "Product_Name": "KOKO KRUNCH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 12,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "COFFEE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 13,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "COFFEE MATE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 14,
+    "Group_Name": "FOOD",
+    "Product_Name": "SOUPS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 15,
+    "Group_Name": "NOODLES & PASTA",
+    "Product_Name": "SEASONING",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 16,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "CAKE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 17,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "TEA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 18,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "CHANACHUR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 19,
+    "Group_Name": "SAUCE, PICKLES & OTHER",
+    "Product_Name": "SAUCE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 20,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "VINEGAR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 21,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "SOAP",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 22,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "HANDWASH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 23,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "CREAM",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 24,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "COTTON BUDS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 25,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "AEROSOL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 26,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "INSECT SPRAY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 27,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "AIR FRSHNER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 28,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "CHIPS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 29,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "DETERGENT",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 30,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "DISHWASH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 31,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "BODY SPRAY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 32,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "CLEANER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 33,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "MAJUNI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 34,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "TOILET CLEANER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 35,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "SHEMAI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 36,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "SALT",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 37,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "SUGAR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 38,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "RICE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 39,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "OIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 40,
+    "Group_Name": "SAUCE, PICKLES & OTHER",
+    "Product_Name": "PICKLES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 41,
+    "Group_Name": "SPREADS",
+    "Product_Name": "MAYONNAISE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 42,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "GHEE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 43,
+    "Group_Name": "SPREADS",
+    "Product_Name": "JAM",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 44,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "BUTTER OIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 45,
+    "Group_Name": "FOOD",
+    "Product_Name": "HOHEY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 46,
+    "Group_Name": "FOOD",
+    "Product_Name": "HONEY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 47,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "MASALA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 48,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "ATTA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 49,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "MAYDA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 50,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "DALL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 51,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "EGG",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 52,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "MURI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 53,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "SUJI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 54,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "SEMAI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 55,
+    "Group_Name": "SAUCE, PICKLES & OTHER",
+    "Product_Name": "KASUNDI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 56,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "HAIR OIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 57,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "GLYCERINE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 58,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "HAIR COLOR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 59,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "SHAMPOO",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 60,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "DRINK POWDER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 61,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "TOOTHPASTE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 62,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "WATER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 63,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "SOFT DRINKS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 64,
+    "Group_Name": "FOOD",
+    "Product_Name": "READY FOOD",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 65,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "TOOTH BRUSH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 66,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "BATTERY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 67,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "COIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 68,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "LIQUID VAPORISER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 69,
+    "Group_Name": "FOOD",
+    "Product_Name": "NUTS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 70,
+    "Group_Name": "FOOD",
+    "Product_Name": "DATE PLUM",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 71,
+    "Group_Name": "FOOD",
+    "Product_Name": "PLUM",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 72,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "CONDENSED MILK",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 73,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "CONDITIONER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 74,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "NAPKIN",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 75,
+    "Group_Name": "BABY FOOD & CARE",
+    "Product_Name": "MILK",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 76,
+    "Group_Name": "FOOD",
+    "Product_Name": "CORN FLAKES",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 77,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "BREAD",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 78,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "BUTTER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 79,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "CHEESE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 80,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "HAND SANITIZER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 81,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "DISINFECTANT SPRAY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 82,
+    "Group_Name": "FOOD",
+    "Product_Name": "MISTI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 83,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "WAFER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 84,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "ANTISEPTIC",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 85,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "HAIR REMOVAL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 86,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "BODY WASH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 87,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "DIAPER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 88,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "BODY LOTION",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 89,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "BODY POWDER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 90,
+    "Group_Name": "DRINKS & BEVERAGES",
+    "Product_Name": "LACCHI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 91,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "PERFUME",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 92,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "REMOVER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 93,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "FACEWASH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 94,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "BODY OIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 95,
+    "Group_Name": "NOODLES & PASTA",
+    "Product_Name": "PASTA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 96,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "TALC POWDER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 97,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "DEODRANTS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 98,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "BALL PEN",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 99,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "FIRE BOX",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 100,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "GLUE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 101,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "LAMP",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 102,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "BALL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 103,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "PAPER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 104,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "KHATA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 105,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "SCALE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 106,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "PEN BOX",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 107,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "PAPER FILE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 108,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "CLIP BOARD",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 109,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "GAME",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 110,
+    "Group_Name": "FOOD",
+    "Product_Name": "OATS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 111,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "SHOWER GEL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 112,
+    "Group_Name": "FOOD",
+    "Product_Name": "CHYAWANPRASH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 113,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "CORN FLOUR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 114,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "WHIPPED",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 115,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "CUSTARD POWDER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 116,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "BAKING POWDER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 117,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "BAKING SODA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 118,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "ESSENCE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 119,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "GELATIN POWDER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 120,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "RAZOR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 121,
+    "Group_Name": "MILK & DAIRY PRODUCTS",
+    "Product_Name": "YOGHURT",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 122,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "GLASS CLEANER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 123,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "PENCIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 124,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "STAPLER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 125,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "MOUTH WASH",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 126,
+    "Group_Name": "FOOD",
+    "Product_Name": "ICECREAM",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 127,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "GEOMETRY BOX",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 128,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "STAMP",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 129,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "COLOR PENCIL",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 130,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "ERASER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 131,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "COLOR",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 132,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "MARKER PENS",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 133,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "TEXTLINER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 134,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "STATIONERY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 135,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "STATIONERY",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 136,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "PENCIL CUTTER",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 137,
+    "Group_Name": "STATIONERY",
+    "Product_Name": "LOTION",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 138,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "LOTION",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 139,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "MEHENDI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 140,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "BESON",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 141,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "YEAST",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 142,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "MONEKKA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 143,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "DABLIVAJA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 144,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "CHIRA VAJA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 145,
+    "Group_Name": "SNAKS & COOKIES",
+    "Product_Name": "NIMKI",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 146,
+    "Group_Name": "BABY FOOD & CARE",
+    "Product_Name": "BABY CARE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 147,
+    "Group_Name": "BABY FOOD & CARE",
+    "Product_Name": "BABY DIAPEE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 148,
+    "Group_Name": "SAUCE, PICKLES & OTHER",
+    "Product_Name": "MUSHROOM",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 149,
+    "Group_Name": "SAUCE, PICKLES & OTHER",
+    "Product_Name": "CAN FOOD",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 150,
+    "Group_Name": "TOILETRIES",
+    "Product_Name": "ALOEVERA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 151,
+    "Group_Name": "OTHERS",
+    "Product_Name": "ADJUSTMENT",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 152,
+    "Group_Name": "COOKING ESSENTIALS",
+    "Product_Name": "BUNDIA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 153,
+    "Group_Name": "FRUITS & VEGETABLES",
+    "Product_Name": "GUAVA",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  },
+  {
+    "Prd_ID": 154,
+    "Group_Name": "FRUITS & VEGETABLES",
+    "Product_Name": "PINEAPPLE",
+    "Floor_ID": "",
+    "VAT_Prcnt": 0,
+    "Disc_Prcnt": 0
+  }
+]
