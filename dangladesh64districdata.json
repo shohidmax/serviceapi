@@ -1,0 +1,3337 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.4111451,
+    23.7115253
+    ]
+    },
+    "properties": {
+    "id": "1",
+    "division_id": "3",
+    "name": "Dhaka",
+    "bn_name": "ঢাকা",
+    "lat": "23.7115253tttt",
+    "long": "90.4111451 ddfd",
+    "municipalityData" : [
+        {
+          "Region": "Dhaka",
+          "District": "Dhaka",
+          "Municipality_Name": "Dohar",
+          "Mayor": "Md. Almas Uddin",
+          "Website": "https:\/\/doharmunicipality.gov.bd\/",
+          "Email": "doharpourashava@gmail.com",
+          "Contact Number": "88027768116 , 88027768117",
+          "Emeregency_Contact_Number ": "01790507004 ( Mayor)"
+        },
+        {
+          "Municipality_Name": "Dhamrai",
+          "Mayor": "Hazi Golam Kabir",
+          "Website": "https:\/\/dhamrai.dhaka.gov.bd\/bn\/site\/page\/RspF-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "makkacity56@gmail.com",
+          "Contact Number": 27730078,
+          "Emeregency_Contact_Number ": "01714208417 ( Mayor)"
+        },
+        {
+          "Municipality_Name": "Savar",
+          "Mayor": "Hazi Md. Abdul Goni",
+          "By the Date of Adoption": "02-02-2021",
+          "Date of Taking Office": "10-02-2021",
+          "Website": "http:\/\/www.savarmunicipality.gov.bd\/",
+          "Email": "mayor.savarmunicipality@gmail.com",
+          "Contact Number": 1716163893,
+          "Emeregency_Contact_Number ": 1727209465
+        }
+      ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.8429406,
+    23.6070822
+    ]
+    },
+    "properties": {
+    "id": "2",
+    "division_id": "3",
+    "name": "Faridpur",
+    "bn_name": "ফরিদপুর",
+    "lat": "23.6070822",
+    "long": "89.8429406",
+    "municipalityData" : [
+        {
+         "Region": "Faridpur",
+         "District": "Faridpur",
+         "Municipality_Name": "Bhanga",
+         "Mayor": "Abu Foyez Mohammad Reza",
+         "Website": "https:\/\/bhanga.faridpur.gov.bd\/en\/site\/page\/YhRc-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Contact Number": "06323-56283 , 01716-226655 (CEO)",
+         "Emeregency_Contact_Number ": "01756936990 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Madhukhali",
+         "Mayor": "Khondoker Morshed Rahman",
+         "Website": "https:\/\/madhukhalipaurashava.gov.bd\/",
+         "Email": "madhukhalipaurashava@yahoo.com",
+         "Contact Number": 880632566006,
+         "Emeregency_Contact_Number ": 1716236256
+        },
+        {
+         "Municipality_Name": "Alfadanga"
+        },
+        {
+         "Municipality_Name": "Faridpur",
+         "Mayor": "Amitav Bose",
+         "Website": "https:\/\/faridpurmunicipality.gov.bd\/",
+         "Contact Number": "01757811910 (Hotline)",
+         "Emeregency_Contact_Number ": "01733152695 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Boalmari ",
+         "Mayor": "Md. Selim Reza Lipon",
+         "Website": "https:\/\/boalmari.faridpur.gov.bd\/bn\/site\/page\/BdXa-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Contact Number": "01710410151 (Computer Operator)",
+         "Emeregency_Contact_Number ": "01713517971 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Nagarkanda",
+         "Mayor": "Nimai Chandra Sarker ",
+         "Website": "https:\/\/nagarkanda.faridpur.gov.bd\/bn\/site\/leaders\/WKdP-%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87-%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0",
+         "Contact Number": 1711001824,
+         "Emeregency_Contact_Number ": 1711001824
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.4264283,
+    24.0022858
+    ]
+    },
+    "properties": {
+    "id": "3",
+    "division_id": "3",
+    "name": "Gazipur",
+    "bn_name": "গাজীপুর",
+    "lat": "24.0022858",
+    "long": "90.4264283",
+    "municipalityData" : [
+        {
+    "District": "Gazipur",
+    "Municipality_Name": "Kaliakoir",
+    "Mayor": "Md. Mozibur Rahman",
+    "Website": "https:\/\/kaliakair.gazipur.gov.bd\/en\/site\/page\/FolS-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+    "Email": "mayor_kaliakair@yahoo.com",
+    "Contact Number": "02 9202190",
+    "Emeregency_Contact_Number ": "01713528034 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Kaliganj",
+    "Mayor": "S M Robin Hossen",
+    "Website": "https:\/\/kaliganj.gazipur.gov.bd\/bn\/site\/page\/LO6a-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+    "Contact Number": "06 823 52200",
+    "Emeregency_Contact_Number ": "01716159020 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Sreepur",
+    "Mayor": "Anisur Rahman",
+    "Website": "https:\/\/www.sreepurpourashava.org\/"
+   }
+      ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.8266059,
+    23.0050857
+    ]
+    },
+    "properties": {
+    "id": "4",
+    "division_id": "3",
+    "name": "Gopalganj",
+    "bn_name": "গোপালগঞ্জ",
+    "lat": "23.0050857",
+    "long": "89.8266059",
+    "municipalityData" : [
+        {
+          "District": "Gopalgonj",
+          "Municipality_Name": "Muksudpur",
+          "Mayor": "Mr. Ashraful Alam ",
+          "Website": "https:\/\/muksudpur.gopalganj.gov.bd\/en\/site\/page\/eVjX-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Emeregency_Contact_Number ": "01712628315 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Tungipara"
+         },
+         {
+          "Municipality_Name": "Kotalipara",
+          "Mayor": "Matiar Rahman Hazra",
+          "Website": "https:\/\/kotaliparapourashava.org\/",
+          "Email": "mayorkotalipara@gmail.com",
+          "Contact Number": 26651267,
+          "Emeregency_Contact_Number ": "01711392599 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Gopalgonj",
+          "Mayor": "Sheikh Rokib Hossen",
+          "Website": "https:\/\/www.gopalgonjpourashava.org\/",
+          "Email": "gopalganjpourashava72@gmail.com",
+          "Contact Number": 26685523
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.937775,
+    24.937533
+    ]
+    },
+    "properties": {
+    "id": "5",
+    "division_id": "8",
+    "name": "Jamalpur",
+    "bn_name": "জামালপুর",
+    "lat": "24.937533",
+    "long": "89.937775",
+    "municipalityData" : [
+        {
+          "District": "Jamalpur",
+          "Municipality_Name": "Sarishabarai",
+          "Mayor": "MD MONIR UDDIN",
+          "Website": "https:\/\/sarishabari.jamalpur.gov.bd\/en\/site\/page\/09Aa-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "moniruddin0920@gmail.com",
+          "Contact Number": 982756114,
+          "Emeregency_Contact_Number ": "01716709115 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Madargonj",
+          "Mayor": "Mirza Golam Kibria Kabir",
+          "Website": "https:\/\/madarganj.jamalpur.gov.bd\/en\/site\/page\/Ph9q--%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Emeregency_Contact_Number ": " 01718524123 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Islampur",
+          "Mayor": "Abdul Kader Sheikh",
+          "Website": "https:\/\/islampur.jamalpur.gov.bd\/en\/site\/page\/eFvb-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Contact Number": 982474162,
+          "Emeregency_Contact_Number ": "01712028603 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Jamalpur",
+          "Mayor": "Sanowar Hossain Sanu",
+          "Website": "https:\/\/jamalpurpourashava.org\/at-a-glance-jamalpur-pourashava\/",
+          "Email": "mayor.jp@gmail.com",
+          "Contact Number": "0981-63289",
+          "Emeregency_Contact_Number ": " 01711636876 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Dewanganj",
+          "Mayor": "Mohammad Shahnewaz Mahan Shah",
+          "Website": "https:\/\/dewangonj.jamalpur.gov.bd\/en\/site\/page\/QN2e-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Emeregency_Contact_Number ": " 01716576069 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Melandoho",
+          "Website": "https:\/\/melandah.jamalpur.gov.bd\/en\/site\/page\/DErH-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Bakshiganj",
+          "Mayor": "Md. Nazrul Islam",
+          "Website": "https:\/\/bokshiganj.jamalpur.gov.bd\/en\/site\/page\/XEIp-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Hazrabari",
+          "Website": "http:\/\/hazrabaripourashava.melandah.jamalpur.gov.bd\/en"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.776575,
+    24.444937
+    ]
+    },
+    "properties": {
+    "id": "6",
+    "division_id": "3",
+    "name": "Kishoreganj",
+    "bn_name": "কিশোরগঞ্জ",
+    "lat": "24.444937",
+    "long": "90.776575",
+    "municipalityData" : [
+        {
+         "District": "Kishorgonj",
+         "Municipality_Name": "Hossainpur",
+         "Mayor": "Abul Khaium Khokon",
+         "Website": "https:\/\/hossainpur.kishoreganj.gov.bd\/en\/site\/page\/54gU-%E0%A6%8F%E0%A6%95%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87",
+         "Emeregency_Contact_Number ": " 01716-462213 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Bajitpur",
+         "Mayor": "Md. Anwar Hossain",
+         "Website": "https:\/\/bajitpur.kishoreganj.gov.bd\/en\/site\/page\/%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "bajitpurpourashava@gmail.com",
+         "Emeregency_Contact_Number ": " 01711544632 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Bhairab",
+         "Mayor": "Hazi Iftekhar Hossain Benu",
+         "Website": "https:\/\/www.bhairabmunicipality.gov.bd\/?page_id=743",
+         "Email": "mayor_bp@yahoo.com",
+         "Contact Number": 29470483,
+         "Emeregency_Contact_Number ": "01711684353 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Katiadi",
+         "Mayor": "Md. Shokot Osman",
+         "Website": "https:\/\/katiadi.kishoreganj.gov.bd\/en\/site\/page\/MC4c-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Emeregency_Contact_Number ": "01709291024 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Kishorgonj",
+         "Mayor": "Md. Parvez Mia",
+         "Website": "https:\/\/pourashava.kishoreganj.gov.bd\/en\/site\/page\/zwFp-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87"
+        },
+        {
+         "Municipality_Name": "Karimgonj",
+         "Mayor": "Md. Mosleh Uddin",
+         "Website": "https:\/\/karimgonj.kishoreganj.gov.bd\/en\/site\/page\/CUw1-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "karimganjpourashava2003@gmail.com",
+         "Emeregency_Contact_Number ": " 01712-149217 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Kuliarchar",
+         "Mayor": "SYED HASAN SARWAR MOHSIN",
+         "Website": "https:\/\/kuliarchar.kishoreganj.gov.bd\/en\/site\/page\/sJNV-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%9A%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "syedhasansarwarmohsin@gmail.com",
+         "Contact Number": "09429-56077",
+         "Emeregency_Contact_Number ": " 01715426079 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Pakundia",
+         "Mayor": "Mohammad Nazrul Islam Akondo",
+         "Website": "https:\/\/pakundia.kishoreganj.gov.bd\/en\/site\/page\/0BuU-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Emeregency_Contact_Number ": " 01716269081 (Mayor)"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.1896805,
+    23.164102
+    ]
+    },
+    "properties": {
+    "id": "7",
+    "division_id": "3",
+    "name": "Madaripur",
+    "bn_name": "মাদারীপুর",
+    "lat": "23.164102",
+    "long": "90.1896805",
+    "municipalityData" : [
+        {
+          "District": "Madaripur",
+          "Municipality_Name": "Shibchar",
+          "Mayor": "Md. Aowlad Hossain",
+          "Website": "https:\/\/shibchar.madaripur.gov.bd\/",
+          "Email": "shibcharpourashava1997@gmail.com",
+          "Emeregency_Contact_Number ": 1718901872
+         },
+         {
+          "Municipality_Name": "Madaripur",
+          "Mayor": "Md. Khalid Hossain Yead",
+          "Website": "https:\/\/sadar.madaripur.gov.bd\/",
+          "Email": "mayor_madaripur@yahoo.com",
+          "Emeregency_Contact_Number ": " 01713008840 (mayor)"
+         },
+         {
+          "Municipality_Name": "Rajoir",
+          "Mayor": "NAZMA RASHID",
+          "Website": "https:\/\/rajoir.madaripur.gov.bd\/",
+          "Email": "nazmaparves@yahoo.com",
+          "Contact Number": 1958055843,
+          "Emeregency_Contact_Number ": "01716832587 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.0047,
+    23.8644
+    ]
+    },
+    "properties": {
+    "id": "8",
+    "division_id": "3",
+    "name": "Manikganj",
+    "bn_name": "মানিকগঞ্জ",
+    "lat": "23.8644",
+    "long": "90.0047",
+    "municipalityData" : [
+        {
+         "District": "Manikgonj",
+         "Municipality_Name": "Manikgonj",
+         "Mayor": "Md.Ramjan Ali",
+         "Website": "https:\/\/sadar.manikganj.gov.bd\/bn\/site\/page\/n5tM-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "manikganj_municipality@yahoo.com",
+         "Emeregency_Contact_Number ": "01713014393 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Singair",
+         "Website": "https:\/\/singair.manikganj.gov.bd\/bn\/site\/page\/1kC5-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%97%E0%A6%BE%E0%A6%87%E0%A6%B0"
+        }
+       ] 
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.5305,
+    23.5422
+    ]
+    },
+    "properties": {
+    "id": "9",
+    "division_id": "3",
+    "name": "Munshiganj",
+    "bn_name": "মুন্সিগঞ্জ",
+    "lat": "23.5422",
+    "long": "90.5305",
+    "municipalityData" : [
+        {
+         "District": "Munshiganj",
+         "Municipality_Name": "Munshiganj",
+         "Mayor": "Mohammad Faisal",
+         "Website": "https:\/\/www.munshiganj.gov.bd\/bn\/site\/page\/fb94-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%80%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "mohammed.faisal1971@yahoo.com",
+         "Emeregency_Contact_Number ": "01911311101 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Mirkadam",
+         "Mayor": "Abdush Salam",
+         "Website": "https:\/\/www.munshiganj.gov.bd\/bn\/site\/page\/GYhS-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%AE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "mayormirkadim1995@gmail.com",
+         "Emeregency_Contact_Number ": " "
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.4203,
+    24.7471
+    ]
+    },
+    "properties": {
+    "id": "10",
+    "division_id": "8",
+    "name": "Mymensingh",
+    "bn_name": "ময়মনসিংহ",
+    "lat": "24.7471",
+    "long": "90.4203",
+    "municipalityData" : [
+        {
+          "Region": "Mymensingh",
+          "District": "Mymensingh",
+          "Municipality_Name": "Gafargaon",
+          "Mayor": "S M Iqbal Hossain Sumon",
+          "Website": "https:\/\/gafargaon.mymensingh.gov.bd\/bn\/site\/page\/D4BX-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "iqbaltr2012@gmail.com",
+          "Contact Number": "09025-56218",
+          "Emeregency_Contact_Number ": "01711548686 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Ishwargonj",
+          "Mayor": "Md. Abdus Sattar",
+          "Website": "https:\/\/iswarganj.mymensingh.gov.bd\/en\/site\/page\/D1PG-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Emeregency_Contact_Number ": "01711606354 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Muktagacha",
+          "Mayor": "Md. Billal Hossain Sarkar",
+          "Date of Taking Office": "14 February 2021",
+          "Website": "http:\/\/pourashava.muktagacha.mymensingh.gov.bd\/bn\/site\/page\/ByMJ-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87",
+          "Email": "mdbillalihossainsharkar@gmail.com",
+          "Contact Number": 902875202,
+          "Emeregency_Contact_Number ": "01716112606 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Nandail",
+          "Website": "https:\/\/nandail.mymensingh.gov.bd\/en\/site\/page\/OfU1-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%87%E0%A6%B2"
+         },
+         {
+          "Municipality_Name": "Bhaluka",
+          "Mayor": "Dr. A.K.M. Mejbah Udiin",
+          "Website": "https:\/\/bhaluka.mymensingh.gov.bd\/en\/site\/page\/H9rR-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%81%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Trishal"
+         },
+         {
+          "Municipality_Name": "Fulpur",
+          "Mayor": "Md. Aminul Haque",
+          "Website": "http:\/\/pourashava.phulpur.mymensingh.gov.bd\/en\/site\/page\/0Ris-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "phulpurpaurashava@gmail.com",
+          "Contact Number": 903356177,
+          "Emeregency_Contact_Number ": " 01712975459 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Gouripur",
+          "Mayor": "Sayed Rafikul Islam",
+          "Website": "https:\/\/gouripur.mymensingh.gov.bd\/en\/site\/page\/XR4I-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "gouripurmunicipality@yahoo.com",
+          "Contact Number": "09024-56010",
+          "Emeregency_Contact_Number ": "01712055086 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Fulbaria",
+          "Website": "https:\/\/fulbaria.mymensingh.gov.bd\/en\/site\/page\/6g7c-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Mymensingh",
+          "Website": "https:\/\/mymensinghsadar.mymensingh.gov.bd\/en\/site\/page\/IpUJ-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9-%E0%A6%B8%E0%A6%A6%E0%A6%B0"
+         },
+         {
+          "Municipality_Name": "Haluaghat",
+          "Mayor": "Md. Khairul Alam Bhuiya",
+          "Website": "https:\/\/haluaghat.mymensingh.gov.bd\/en\/site\/page\/CPtE-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE",
+          "Emeregency_Contact_Number ": " 01922052425 (Mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.496482,
+    23.63366
+    ]
+    },
+    "properties": {
+    "id": "11",
+    "division_id": "3",
+    "name": "Narayanganj",
+    "bn_name": "নারায়াণগঞ্জ",
+    "lat": "23.63366",
+    "long": "90.496482",
+    "municipalityData" : [
+        {
+    "District": "Narayangonj",
+    "Municipality_Name": "Kanchon",
+    "Website": "https:\/\/rupganj.narayanganj.gov.bd\/bn\/site\/page\/N2Lm-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%A8-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+   },
+   {
+    "Municipality_Name": "Araihazar",
+    "Mayor": "Hazi Sundor Ali",
+    "Website": "http:\/\/paurashava.araihazar.narayanganj.gov.bd\/bn"
+   },
+   {
+    "Municipality_Name": "Gopaldi",
+    "Mayor": "M A Halim Shikhdar",
+    "Website": "https:\/\/gopaldipourashava.com\/",
+    "Email": "gopaldipisc@gmail.com",
+    "Emeregency_Contact_Number ": "01711340082 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Sonargaon",
+    "Website": "http:\/\/sonargaonpaurashava.sonargaon.narayanganj.gov.bd\/"
+   },
+   {
+    "Municipality_Name": "Tarabo",
+    "Website": "https:\/\/rupganj.narayanganj.gov.bd\/bn\/site\/page\/kb6R-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87"
+   }
+      ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.71541,
+    23.932233
+    ]
+    },
+    "properties": {
+    "id": "12",
+    "division_id": "3",
+    "name": "Narsingdi",
+    "bn_name": "নরসিংদী",
+    "lat": "23.932233",
+    "long": "90.71541",
+    "municipalityData" : [
+        {
+    "District": "Narsingdi",
+    "Municipality_Name": "Shibpur",
+    "Website": "https:\/\/shibpur.narsingdi.gov.bd\/bn\/site\/page\/f816-%E0%A6%8F%E0%A6%95%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%AC%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+   },
+   {
+    "Municipality_Name": "Narsingdi",
+    "Website": "https:\/\/narsingdisadar.narsingdi.gov.bd\/en\/site\/page\/Zckj-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%B0%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%A6%E0%A7%80-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+   },
+   {
+    "Municipality_Name": "Ghorashal"
+   },
+   {
+    "Municipality_Name": "Monohordi",
+    "Mayor": "Mohammad Aminur Rashid",
+    "Website": "http:\/\/www.monohardi.narsingdi.gov.bd\/en\/site\/page\/DOdz-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+    "Email": "mayorsujon@gmail.com",
+    "Emeregency_Contact_Number ": "01611920940  (mayor)"
+   },
+   {
+    "Municipality_Name": "Madhabdi"
+   },
+   {
+    "Municipality_Name": "Raypura",
+    "Mayor": "Md. Jamal Mollah",
+    "Website": "https:\/\/www.raipurapaurashava.gov.bd\/",
+    "Email": "mayor@raipurapaurashava.gov.bd",
+    "Contact Number": "02-9448021",
+    "Emeregency_Contact_Number ": "01815- 496180 (Mayor)"
+   }
+      ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.727887,
+    24.870955
+    ]
+    },
+    "properties": {
+    "id": "13",
+    "division_id": "8",
+    "name": "Netrokona",
+    "bn_name": "নেত্রকোণা",
+    "lat": "24.870955",
+    "long": "90.727887",
+    "municipalityData" : [
+        {
+          "District": "Netrokona",
+          "Municipality_Name": "Madan",
+          "Mayor": "Md. Saiful Islam",
+          "Website": "https:\/\/madan.netrokona.gov.bd\/en\/site\/page\/wviW-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "madanpoum@gmail.com",
+          "Contact Number": 952956055,
+          "Emeregency_Contact_Number ": " 01710762976 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Kendua",
+          "Mayor": "Md. Abdul Haque Bhuiya",
+          "Website": "https:\/\/kendua.netrokona.gov.bd\/en\/site\/page\/gmwc-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Contact Number": 952856057,
+          "Emeregency_Contact_Number ": "01712517030 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Netrokona",
+          "Mayor": "Md. Nazrul Islam khan",
+          "Website": "https:\/\/netrokonasadar.netrokona.gov.bd\/en\/site\/page\/hN",
+          "Email": "netrokonapouroshava@gmail.com",
+          "Contact Number": " 0951-62527",
+          "Emeregency_Contact_Number ": " 01711619238 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Durgapur",
+          "Mayor": "Md. Ala Uddin",
+          "Website": "https:\/\/durgapur.netrokona.gov.bd\/en\/site\/page\/RUJC-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Mohongonj",
+          "Mayor": "Md. Shahid Ikbal (Upzila chairman)",
+          "Website": "https:\/\/mohongonj.netrokona.gov.bd\/en\/site\/page\/HRRM-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C",
+          "Contact Number": "09524-56046",
+          "Emeregency_Contact_Number ": "01712526743 (Upzila chairman)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.6444665,
+    23.7574305
+    ]
+    },
+    "properties": {
+    "id": "14",
+    "division_id": "3",
+    "name": "Rajbari",
+    "bn_name": "রাজবাড়ি",
+    "lat": "23.7574305",
+    "long": "89.6444665",
+    "municipalityData" : [
+        {
+          "District": "Rajbari",
+          "Municipality_Name": "Pangsha",
+          "Mayor": "Muhammad Jafar Sadik Chowdhury (UNO)",
+          "Website": "https:\/\/pangsa.rajbari.gov.bd\/",
+          "Email": "unopangsa@mopa.gov.bd",
+          "Contact Number": "01733-336405",
+          "Emeregency_Contact_Number ": "01733-336405 (UNO)"
+         },
+         {
+          "Municipality_Name": "Goalanda",
+          "Website": "http:\/\/pourashava.goalanda.rajbari.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Rajbari",
+          "Mayor": "Md Alomgir Sheikh Setu",
+          "Website": "https:\/\/rajbaripourashava.gov.bd\/",
+          "Email": "mayor@rajbaripourashava.gov.bd",
+          "Emeregency_Contact_Number ": "1924992709 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.4348,
+    23.2423
+    ]
+    },
+    "properties": {
+    "id": "15",
+    "division_id": "3",
+    "name": "Shariatpur",
+    "bn_name": "শরীয়তপুর",
+    "lat": "23.2423",
+    "long": "90.4348",
+    "municipalityData" : [
+        {
+          "District": "Shariatpur",
+          "Municipality_Name": "Damuddya",
+          "Mayor": "Md. Rejaul Karim",
+          "Website": "https:\/\/damudya.shariatpur.gov.bd\/",
+          "Email": "damudyapourashava_1997@yahoo.com",
+          "Contact Number": "01715-133796 (office)",
+          "Emeregency_Contact_Number ": "01715-133796 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Naria",
+          "Mayor": "Adv. MD. Abul Kalam Azad",
+          "Website": "https:\/\/naria.shariatpur.gov.bd\/",
+          "Email": "azadfornaria@gmail.com",
+          "Emeregency_Contact_Number ": 1712518630
+         },
+         {
+          "Municipality_Name": "Shariatpur",
+          "Mayor": "Abdul Rob Munshi",
+          "Website": "https:\/\/sadar.shariatpur.gov.bd\/en\/site\/page\/YVlg-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "mayor_shp@yahoo.com",
+          "Emeregency_Contact_Number ": 1712264112
+         },
+         {
+          "Municipality_Name": "Zanjira",
+          "Mayor": "Md. Idris Madbor",
+          "Website": "https:\/\/zajira.shariatpur.gov.bd\/",
+          "Emeregency_Contact_Number ": "01717112405 (mayor)"
+         },
+         {
+          "Municipality_Name": "Bhedarganj",
+          "Mayor": "MD: Humayun Kabir (Upazila Chairman)",
+          "Website": "https:\/\/bhedarganj.shariatpur.gov.bd\/",
+          "Email": "uzpbhedargonj@yahoo.com",
+          "Emeregency_Contact_Number ": 1740800622
+         },
+         {
+          "Municipality_Name": "Goshairhat",
+          "Mayor": "Md. Abdul Awal",
+          "Website": "https:\/\/gosairhat.shariatpur.gov.bd\/",
+          "Emeregency_Contact_Number ": "01712729498 (Mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.0152966,
+    25.0204933
+    ]
+    },
+    "properties": {
+    "id": "16",
+    "division_id": "8",
+    "name": "Sherpur",
+    "bn_name": "শেরপুর",
+    "lat": "25.0204933",
+    "long": "90.0152966",
+    "municipalityData" : [
+        {
+          "District": "Sherpur",
+          "Municipality_Name": "Nakla",
+          "Mayor": "Md. Hafijur Rahman",
+          "Website": "https:\/\/nokla.sherpur.gov.bd\/en\/site\/page\/w7Fw-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%95%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "naklapourashava@gmail.com",
+          "Emeregency_Contact_Number ": " 01712640553 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Sherpur",
+          "Mayor": "Mr. Gollam Mohammad Kibria",
+          "Website": "https:\/\/sherpursadar.sherpur.gov.bd\/en\/site\/page\/lqPi-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%A6%E0%A6%B0",
+          "Email": "sherpur_pourashava@yahoo.com",
+          "Contact Number": " 0931-61368",
+          "Emeregency_Contact_Number ": " 01711-637523 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Nalitabari",
+          "Mayor": "Md. Abu Bakkar Siddiq",
+          "Website": "https:\/\/nalitabari.sherpur.gov.bd\/en",
+          "Email": "nalita_poura@yahoo.com",
+          "Contact Number": " 09324-73221 ",
+          "Emeregency_Contact_Number ": " 01712-536741 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Sreebordi",
+          "Website": "https:\/\/sreebordi.sherpur.gov.bd\/en\/site\/page\/ScEg-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.9167,
+    24.2513
+    ]
+    },
+    "properties": {
+    "id": "17",
+    "division_id": "3",
+    "name": "Tangail",
+    "bn_name": "টাঙ্গাইল",
+    "lat": "24.2513",
+    "long": "89.9167",
+    "municipalityData" : [
+    {
+    "District": "Tangail",
+    "Municipality_Name": "Ghatail",
+    "Mayor": "Shahiduzzaman Khan",
+    "Website": "https:\/\/ghatail.tangail.gov.bd\/en\/site\/leaders\/6F2C-%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%A8",
+    "Email": "ghatail.pourashava@gmail.com",
+    "Contact Number": 922556145,
+    "Emeregency_Contact_Number ": "01713015709 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Elenga",
+    "Mayor": "Mohammad Nur-A-Alam Siddiqui",
+    "Website": "https:\/\/kalihati.tangail.gov.bd\/en\/site\/leaders\/XBoo-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6-%E0%A6%A8%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%AC%E0%A7%80",
+    "Email": "madhughosh97@gmail.com",
+    "Emeregency_Contact_Number ": "01711618372 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Bashail",
+    "Mayor": "Md. Rahat Hasan",
+    "Website": "http:\/\/www.basail.tangail.gov.bd\/en\/site\/leaders\/%E0%A6%AE%E0%A7%8B.-%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8",
+    "Email": "basailpsva@gmail.com",
+    "Emeregency_Contact_Number ": "01712181967 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Dhonbari",
+    "Mayor": "Moniruzzaman Bokul",
+    "Website": "https:\/\/dhanbari.tangail.gov.bd\/bn\/site\/leaders\/BW6q-%E0%A6%AE%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%95%E0%A6%B2",
+    "Emeregency_Contact_Number ": "01716594567 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Bhuapur",
+    "Mayor": "Md. Masudul Haque Masud",
+    "Website": "https:\/\/bhuapur.tangail.gov.bd\/en\/site\/leaders\/Nmsw-%E0%A6%AE%E0%A7%8B%E0%A6%83-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%81%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%81%E0%A6%A6",
+    "Email": "bhuapurpoura@gmail.com",
+    "Emeregency_Contact_Number ": "01712570672 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Tangail",
+    "Mayor": "Mr. S M Sirajul Haque",
+    "Website": "http:\/\/tangailpourashava.gov.bd\/",
+    "Email": "tangailpourashava@yahoo.com",
+    "Contact Number": 92163320
+   },
+   {
+    "Municipality_Name": "Mirzapur",
+    "Mayor": "Salma Akhter",
+    "Website": "http:\/\/pourashava.mirzapur.tangail.gov.bd\/",
+    "Email": "mayormirzapur@gmail.com",
+    "Contact Number": 922956212,
+    "Emeregency_Contact_Number ": "01837261561 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Kalihati",
+    "Mayor": "Mohammad Nurunnobi",
+    "Website": "https:\/\/kalihati.tangail.gov.bd\/en\/site\/leaders\/XBoo-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6-%E0%A6%A8%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%AC%E0%A7%80",
+    "Email": "kalihatipourashava021@gmail.com",
+    "Emeregency_Contact_Number ": "01716045053 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Gopalpur",
+    "Mayor": "Md. Rakibul Haque Sana",
+    "Website": "https:\/\/gopalpur.tangail.gov.bd\/bn\/site\/leaders\/SelV-%E0%A6%AE%E0%A7%8B-%E0%A6%B0%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%95-%E0%A6%9B%E0%A6%BE%E0%A6%A8%E0%A6%BE",
+    "Email": "kjalam@gmail.com",
+    "Emeregency_Contact_Number ": "01711197228 (Mayor)"
+   },
+   {
+    "Municipality_Name": "Madhupur",
+    "Mayor": "Md. Siddique Hossen Khan",
+    "Website": "https:\/\/madhupurmunicipality.org\/",
+    "Email": "info@madhupurmunicipality.org",
+    "Emeregency_Contact_Number ": 1795090180
+   },
+   {
+    "Municipality_Name": "Sakhipur"
+   }
+      ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.377755,
+    24.8465228
+    ]
+    },
+    "properties": {
+    "id": "18",
+    "division_id": "5",
+    "name": "Bogura",
+    "bn_name": "বগুড়া",
+    "lat": "24.8465228",
+    "long": "89.377755",
+    "municipalityData":[
+        {
+            "District": "Bogura",
+            "Municipality_Name": "Sherpur",
+            "Mayor": "Md. Jane Alam Khoka",
+            "Website": "https:\/\/sherpur.bogra.gov.bd\/",
+            "Email": "meyorsherpur.bogra@gmail.com"
+           },
+           {
+            "Municipality_Name": "Nandigram",
+            "Mayor": "MD. Anisur Rahman",
+            "Website": "https:\/\/nondigram.bogra.gov.bd\/",
+            "Email": "mayor.nandigram@gmail.com",
+            "Contact Number": "05127-76094",
+            "Emeregency_Contact_Number ": "01716-824940 (Mayor)"
+           },
+           {
+            "Municipality_Name": "Bogura",
+            "Mayor": "Md. Rejaul Karim Badsha",
+            "Website": "https:\/\/sadar.bogra.gov.bd\/",
+            "Email": "bograpaurashava@yahoo.com",
+            "Contact Number": "051-65251",
+            "Emeregency_Contact_Number ": "01913-681000 (Mayor)"
+           },
+           {
+            "Municipality_Name": "Dhupchanchia",
+            "Mayor": "Md. Jahangir Alam",
+            "Website": "https:\/\/dupchanchia.bogra.gov.bd\/",
+            "Email": "duchanchia.pourashava@gmail.com",
+            "Emeregency_Contact_Number ": "01718504234 (Mayor)"
+           },
+           {
+            "Municipality_Name": "Dhunat",
+            "Mayor": "A G M Badshah",
+            "Website": "https:\/\/dhunot.bogra.gov.bd\/",
+            "Email": "dhunatpoura.bogra@gmail.com",
+            "Emeregency_Contact_Number ": "01712-481122 (mayor)"
+           },
+           {
+            "Municipality_Name": "Santahar"
+           },
+           {
+            "Municipality_Name": "Sariakandi"
+           },
+           {
+            "Municipality_Name": "Sonatola",
+            "Mayor": "Jahangir Alam Akhnad",
+            "Website": "https:\/\/sonatala.bogra.gov.bd\/en\/site\/page\/LqGk-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+           },
+           {
+            "Municipality_Name": "Shibganj",
+            "Mayor": "Tohidur Rahman Manik",
+            "Website": "https:\/\/shibganj.bogra.gov.bd\/",
+            "Email": "editor.tbarta@gmail.com",
+            "Contact Number": "05033-69064",
+            "Emeregency_Contact_Number ": "01711-900830 (Mayor)"
+           },
+           {
+            "Municipality_Name": "Kahaloo",
+            "Mayor": "Md. Abdul Mannan",
+            "Website": "https:\/\/kahaloo.bogra.gov.bd\/",
+            "Emeregency_Contact_Number ": "017111-97836 (mayor)"
+           },
+           {
+            "Municipality_Name": "Gabtoli",
+            "Mayor": "Md. Mominul Haq Shilu",
+            "Website": "https:\/\/gabtali.bogra.gov.bd\/",
+            "Emeregency_Contact_Number ": "01717662597 (mayor)"
+           },
+           {
+            "Municipality_Name": "Talora"
+           }
+    ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.0227,
+    25.0968
+    ]
+    },
+    "properties": {
+    "id": "19",
+    "division_id": "5",
+    "name": "Joypurhat",
+    "bn_name": "জয়পুরহাট",
+    "lat": "25.0968",
+    "long": "89.0227",
+    "municipalityData" : [
+        {
+          "District": "Joypurhat",
+          "Municipality_Name": "Akkelpur",
+          "Mayor": "Md. Shahidul Alam Chowdhury",
+          "Website": "https:\/\/akkelpur.joypurhat.gov.bd\/en\/site\/page\/EilW-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "mayor@akkelpurnunicipality.gov.bd",
+          "Contact Number": 572264120,
+          "Emeregency_Contact_Number ": "01711123949 (mayor)"
+         },
+         {
+          "Municipality_Name": "Khetlal"
+         },
+         {
+          "Municipality_Name": "Kalai",
+          "Website": "https:\/\/kalai.joypurhat.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Panchbibi",
+          "Mayor": "Habibur Rahman Habib",
+          "Website": "https:\/\/panchbibi.joypurhat.gov.bd\/",
+          "Emeregency_Contact_Number ": "01713-215325 (mayor)"
+         },
+         {
+          "Municipality_Name": "Joypurhat",
+          "Mayor": "Md. Mostafizur Rahman",
+          "Website": "https:\/\/joypurhatsadar.joypurhat.gov.bd\/",
+          "Email": "mayorjoypurhat@yahoo.com",
+          "Contact Number": 57162311,
+          "Emeregency_Contact_Number ": "01711152282, 01711586321 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.9318,
+    24.7936
+    ]
+    },
+    "properties": {
+    "id": "20",
+    "division_id": "5",
+    "name": "Naogaon",
+    "bn_name": "নওগাঁ",
+    "lat": "24.7936",
+    "long": "88.9318",
+    "municipalityData" : [
+        {
+         "District": "Naogaon",
+         "Municipality_Name": "Naogaon",
+         "Mayor": "Md. NAzmul Haq Sunny",
+         "Website": "https:\/\/naogaonsadar.naogaon.gov.bd\/",
+         "Emeregency_Contact_Number ": "01711181650 (mayor)"
+        },
+        {
+         "Municipality_Name": "Dhamoirhat",
+         "Mayor": "Md. Aminur RAhman",
+         "Website": "https:\/\/dhamoirhat.naogaon.gov.bd\/",
+         "Emeregency_Contact_Number ": "01711414519 (mayor)"
+        },
+        {
+         "Municipality_Name": "Nazipur"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.000282,
+    24.420556
+    ]
+    },
+    "properties": {
+    "id": "21",
+    "division_id": "5",
+    "name": "Natore",
+    "bn_name": "নাটোর",
+    "lat": "24.420556",
+    "long": "89.000282",
+    "municipalityData" : [
+        {
+          "District": "Natore",
+          "Municipality_Name": "Singra",
+          "Mayor": "Md. Jannatul Ferdosh",
+          "Website": "https:\/\/singra.natore.gov.bd\/",
+          "Email": "meyorsingra@gmail.com",
+          "Contact Number": "07726-63100",
+          "Emeregency_Contact_Number ": "01714179516 (mayor)"
+         },
+         {
+          "Municipality_Name": "Gurudaspur",
+          "Mayor": "Shah Newaj Ali Molla",
+          "Website": "https:\/\/gurudaspur.natore.gov.bd\/",
+          "Contact Number": "07724-74031",
+          "Emeregency_Contact_Number ": "01721425050 (mayor)"
+         },
+         {
+          "Municipality_Name": "Natore",
+          "Mayor": "Uma Chowdhury",
+          "Website": "https:\/\/natoresadar.natore.gov.bd\/en\/site\/page\/yaxh-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE",
+          "Email": "natore.pourashava@yahoo.com",
+          "Emeregency_Contact_Number ": "01731975122 (mayor)"
+         },
+         {
+          "Municipality_Name": "Gopalpur"
+         },
+         {
+          "Municipality_Name": "Bagatipara",
+          "Mayor": "Md. Mosharof Hossain",
+          "Website": "https:\/\/bagatipara.natore.gov.bd\/",
+          "Contact Number": 880772272031,
+          "Emeregency_Contact_Number ": "01712313279 (mayor)"
+         },
+         {
+          "Municipality_Name": "Naldanga",
+          "Mayor": "Md. Shafir Uddin Mandal",
+          "Website": "https:\/\/naldanga.natore.gov.bd\/",
+          "Email": "naldangapouroshova@gmail.com",
+          "Emeregency_Contact_Number ": "01734-246644 (mayor)"
+         },
+         {
+          "Municipality_Name": "Banpara"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.2775122,
+    24.5965034
+    ]
+    },
+    "properties": {
+    "id": "22",
+    "division_id": "5",
+    "name": "Nawabganj",
+    "bn_name": "নবাবগঞ্জ",
+    "lat": "24.5965034",
+    "long": "88.2775122",
+    "municipalityData" :  [
+        {
+          "Region": "Rajshahi",
+          "District": "Chapai Nawabganj",
+          "Municipality_Name": "Shibganj",
+          "Mayor": "Sayd Monirul Islam",
+          "Website": "https:\/\/shibganj.chapainawabganj.gov.bd\/",
+          "Email": "smislam03@gmail.com",
+          "Contact Number": "07825-75046",
+          "Emeregency_Contact_Number ": "01712135609 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chapai Nawabganj",
+          "Mayor": "Md. Mokhlesur Rahman",
+          "Website": "https:\/\/chapainawabganjsadar.chapainawabganj.gov.bd\/",
+          "Email": "mayor@chapaipoura.gov.bd",
+          "Emeregency_Contact_Number ": "01714049404 (mayor)"
+         },
+         {
+          "Municipality_Name": "Rohanpur"
+         },
+         {
+          "Municipality_Name": "Nachol",
+          "Mayor": "Md. Abdur Roshid",
+          "Website": "https:\/\/nachol.chapainawabganj.gov.bd\/",
+          "Email": "nachol.pourashava@gmail.com",
+          "Contact Number": 1712078179,
+          "Emeregency_Contact_Number ": "01712078179 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.233645,
+    23.998524
+    ]
+    },
+    "properties": {
+    "id": "23",
+    "division_id": "5",
+    "name": "Pabna",
+    "bn_name": "পাবনা",
+    "lat": "23.998524",
+    "long": "89.233645",
+    "municipalityData" : [
+        {
+          "District": "Pabna",
+          "Municipality_Name": "Bera",
+          "Mayor": "Asif Samsh Ranjan",
+          "Website": "bera.pabna.gov.bd",
+          "Email": "shamsasif@gmail.com",
+          "Contact Number": 258848009,
+          "Emeregency_Contact_Number ": "01550708525 (mayor)"
+         },
+         {
+          "Municipality_Name": "Suzanagar",
+          "Mayor": "Md. Rezaul Karim",
+          "Website": "https:\/\/sujanagar.pabna.gov.bd\/",
+          "Email": "mayor-sujanagar@pourainfo.gov.bd",
+          "Contact Number": 1716981095,
+          "Emeregency_Contact_Number ": "01716981095 (mayor)"
+         },
+         {
+          "Municipality_Name": "Pabna",
+          "Website": "https:\/\/pabnasadar.pabna.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Santhia",
+          "Mayor": "MD. Mahbubul Alam",
+          "Website": "https:\/\/santhia.pabna.gov.bd\/",
+          "Email": "mdmahbubulalam247@gmail.com",
+          "Emeregency_Contact_Number ": "01740845302 (mayor0"
+         },
+         {
+          "Municipality_Name": "Atgharia",
+          "Mayor": "Md. Shahidul ISlam Ratan",
+          "Website": "https:\/\/atghoria.pabna.gov.bd\/",
+          "Email": "atghariapourashava@gmail.com",
+          "Contact Number": 732256045,
+          "Emeregency_Contact_Number ": "01712396463 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chatmohor",
+          "Mayor": "Advocate Shakhawat Hossain Shako",
+          "Website": "https:\/\/chatmohar.pabna.gov.bd\/",
+          "Emeregency_Contact_Number ": " 01715380683 (mayor)"
+         },
+         {
+          "Municipality_Name": "Faridpur",
+          "Website": "https:\/\/faridpur.pabna.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Bhangura",
+          "Website": "bhangura.pabna.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Ishwardi",
+          "Website": "https:\/\/ishurdi.pabna.gov.bd\/en\/site\/page\/kbp8-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.6042,
+    24.3745
+    ]
+    },
+    "properties": {
+    "id": "24",
+    "division_id": "5",
+    "name": "Rajshahi",
+    "bn_name": "রাজশাহী",
+    "lat": "24.3745",
+    "long": "88.6042",
+    "municipalityData" : [
+        {
+          "District": "Rajshahi",
+          "Municipality_Name": "Katakhali"
+         },
+         {
+          "Municipality_Name": "Durgapur",
+          "Website": "https:\/\/durgapur.rajshahi.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Tanore",
+          "Mayor": "MD. MIJANUR RAHMAN(MIZAN)",
+          "Website": "https:\/\/tanore.rajshahi.gov.bd\/",
+          "Emeregency_Contact_Number ": "01715299301 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Puthia",
+          "Mayor": "A. K. M. Nur Hossain Nirzor (UNO)",
+          "Website": "https:\/\/puthia.rajshahi.gov.bd\/en\/site\/page\/u43m-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "unoputhia@mopa.gov.bd",
+          "Contact Number": 2588868621,
+          "Emeregency_Contact_Number ": "01786708444 (UNO)"
+         },
+         {
+          "Municipality_Name": "Bhabaniganj"
+         },
+         {
+          "Municipality_Name": "Arani"
+         },
+         {
+          "Municipality_Name": "Kakonhat"
+         },
+         {
+          "Municipality_Name": "Kesharhat"
+         },
+         {
+          "Municipality_Name": "Bagha",
+          "Mayor": "MD.Akkas Ali",
+          "Website": "https:\/\/bagha.rajshahi.gov.bd\/en\/site\/page\/uy3w-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%98%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "baghapaurashava15@gmail.com",
+          "Emeregency_Contact_Number ": "01731505281 (mayor)"
+         },
+         {
+          "Municipality_Name": "Mandumala"
+         },
+         {
+          "Municipality_Name": "Godagari",
+          "Mayor": "Md. Wayez Uddin Biswas",
+          "Website": "https:\/\/godagari.rajshahi.gov.bd\/en\/site\/page\/7Pq8-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%A6%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A7%80-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "godagaripourashava@gmail.com",
+          "Contact Number": 722556057,
+          "Emeregency_Contact_Number ": "01711057013 n(mayor)"
+         },
+         {
+          "Municipality_Name": "Taherpur"
+         },
+         {
+          "Municipality_Name": "Naohata"
+         },
+         {
+          "Municipality_Name": "Charghat",
+          "Mayor": "Md. Jakirul Islam",
+          "Website": "https:\/\/charghat.rajshahi.gov.bd\/en\/site\/page\/Sn3X-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%98%E0%A6%BE%E0%A6%9F-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "charghatpauro1998@outlook.com",
+          "Emeregency_Contact_Number ": "01716-080933 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.7006815,
+    24.4533978
+    ]
+    },
+    "properties": {
+    "id": "25",
+    "division_id": "5",
+    "name": "Sirajgonj",
+    "bn_name": "সিরাজগঞ্জ",
+    "lat": "24.4533978",
+    "long": "89.7006815",
+    "municipalityData" : [
+        {
+          "Region": "Bogura",
+          "District": "Shirajgonj",
+          "Municipality_Name": "Shahjadpur",
+          "Mayor": "Monir Akter Khan Taru Lodi",
+          "Website": "https:\/\/shahjadpur.sirajganj.gov.bd\/",
+          "Email": "tarulodi161672@gmail.com",
+          "Contact Number": 752764649,
+          "Emeregency_Contact_Number ": "01712161672 (mayor)"
+         },
+         {
+          "Municipality_Name": "Ullapara",
+          "Mayor": "Md. Nazrul ISlam",
+          "Website": "https:\/\/ullapara.sirajganj.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Shirajgonj",
+          "Mayor": "Shayed Abdul Rouf Mukta",
+          "Website": "https:\/\/sirajganjsadar.sirajganj.gov.bd\/en\/site\/page\/OG0c-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "siraj.pouro@gmail.com",
+          "Contact Number": "0751-62060",
+          "Emeregency_Contact_Number ": "01711531968 (mayor)"
+         },
+         {
+          "Municipality_Name": "Belkuchi",
+          "Mayor": "Md. Sajjadul Haq Reza",
+          "Website": "https:\/\/belkuchi.sirajganj.gov.bd\/",
+          "Email": "shazzadul.reza@gmail.com",
+          "Emeregency_Contact_Number ": "01712003158 (mayor)"
+         },
+         {
+          "Municipality_Name": "Kazipur",
+          "Mayor": "Abdul Hannan Talukder",
+          "Website": "https:\/\/kazipur.sirajganj.gov.bd\/",
+          "Email": "kazipurpourasava@gmail.com",
+          "Contact Number": 752556205,
+          "Emeregency_Contact_Number ": "01726596210 (mayor)"
+         },
+         {
+          "Municipality_Name": "Raiganj",
+          "Mayor": "Abdula Al Pathan",
+          "Website": "http:\/\/pouroshova.raigonj.sirajganj.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Tarash",
+          "Mayor": "Md. Abdur Rajjak",
+          "Website": "https:\/\/tarash.sirajganj.gov.bd\/",
+          "Email": "mayortarashpourashava@gmail.com",
+          "Emeregency_Contact_Number ": "01716339110 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.6354504,
+    25.6217061
+    ]
+    },
+    "properties": {
+    "id": "26",
+    "division_id": "6",
+    "name": "Dinajpur",
+    "bn_name": "দিনাজপুর",
+    "lat": "25.6217061",
+    "long": "88.6354504",
+    "municipalityData" : [
+        {
+          "Region": "Rangpur",
+          "District": "Dinajpur",
+          "Municipality_Name": "Setabganj"
+         },
+         {
+          "Municipality_Name": "Birampur",
+          "Mayor": "Md. Akkas Ali",
+          "Website": "https:\/\/birampurpaurashava.gov.bd\/",
+          "Email": "gmakkasali@gmail.com",
+          "Emeregency_Contact_Number ": "01713769971(mayor)"
+         },
+         {
+          "Municipality_Name": "Birganj",
+          "Website": "https:\/\/birganj.dinajpur.gov.bd\/",
+          "Email": "mayorbirganjpoura@gmail.com",
+          "Emeregency_Contact_Number ": "01768962044 (mayor)"
+         },
+         {
+          "Municipality_Name": "Parbatipur"
+         },
+         {
+          "Municipality_Name": "Fulpur"
+         },
+         {
+          "Municipality_Name": "Hakimpur",
+          "Mayor": "N, A, M Jamil Hossain Chalanta",
+          "Website": "https:\/\/hakimpur.dinajpur.gov.bd\/",
+          "Email": "chalantohili@gmail.com",
+          "Emeregency_Contact_Number ": "01712-059192 (mayor)"
+         },
+         {
+          "Municipality_Name": "Dinajpur",
+          "Website": "https:\/\/dinajpursadar.dinajpur.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Ghoraghat",
+          "Website": "https:\/\/ghoraghat.dinajpur.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Biral",
+          "Mayor": "Alhaj Sabujar Siddique",
+          "Website": "https:\/\/birol.dinajpur.gov.bd\/",
+          "Emeregency_Contact_Number ": "01712983401 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.528088,
+    25.328751
+    ]
+    },
+    "properties": {
+    "id": "27",
+    "division_id": "6",
+    "name": "Gaibandha",
+    "bn_name": "গাইবান্ধা",
+    "lat": "25.328751",
+    "long": "89.528088",
+    "municipalityData" : [
+        {
+          "District": "Gaibandha",
+          "Municipality_Name": "Gobindaganj",
+          "Mayor": "Md. Mukitur Rahman (Rafi)",
+          "Website": "https:\/\/gobindaganj.gaibandha.gov.bd\/",
+          "Email": "mayor.gobipoura@gmail.com",
+          "Emeregency_Contact_Number ": "01711416670 (mayor)"
+         },
+         {
+          "Municipality_Name": "Gaibandha"
+         },
+         {
+          "Municipality_Name": "Shundarganj",
+          "Mayor": "Md. Abdur Rashid Reza Sarker",
+          "Website": "https:\/\/sundarganj.gaibandha.gov.bd\/",
+          "Email": "sundargonjpourashava@gmail.com",
+          "Emeregency_Contact_Number ": "01712621920 (mayor)"
+         },
+         {
+          "Municipality_Name": "Palashbari"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.636174,
+    25.805445
+    ]
+    },
+    "properties": {
+    "id": "28",
+    "division_id": "6",
+    "name": "Kurigram",
+    "bn_name": "কুড়িগ্রাম",
+    "lat": "25.805445",
+    "long": "89.636174",
+    "municipalityData" : [
+        {
+          "District": "Kurigram",
+          "Municipality_Name": "Nageshwari"
+         },
+         {
+          "Municipality_Name": "Kurigram"
+         },
+         {
+          "Municipality_Name": "Ulipur",
+          "Mayor": "Md. Mamun Sarker",
+          "Website": "https:\/\/ulipur.kurigram.gov.bd\/",
+          "Email": "md_sarker2000@yahoo.com",
+          "Contact Number": "05829-56143",
+          "Emeregency_Contact_Number ": "01717-745067 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.2847,
+    25.9923
+    ]
+    },
+    "properties": {
+    "id": "29",
+    "division_id": "6",
+    "name": "Lalmonirhat",
+    "bn_name": "লালমনিরহাট",
+    "lat": "25.9923",
+    "long": "89.2847",
+    "municipalityData" : [
+        {
+          "District": "Lalmonirhat",
+          "Municipality_Name": "Lalmonirhat",
+          "Mayor": "Md. Rezaul Karim Swapan\r",
+          "Website": "https:\/\/sadar.lalmonirhat.gov.bd\/",
+          "Email": "lalpaurashava@gmail.com",
+          "Contact Number": "0591-61396",
+          "Emeregency_Contact_Number ": "01711282392 (mayor)"
+         },
+         {
+          "Municipality_Name": "Patgram",
+          "Mayor": "Md. Rasedul Islam Sweet",
+          "Website": "https:\/\/patgram.lalmonirhat.gov.bd\/",
+          "Email": "mayorpatgram@gmail.com",
+          "Emeregency_Contact_Number ": "01712847498 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.856006,
+    25.931794
+    ]
+    },
+    "properties": {
+    "id": "30",
+    "division_id": "6",
+    "name": "Nilphamari",
+    "bn_name": "নীলফামারী",
+    "lat": "25.931794",
+    "long": "88.856006",
+    "municipalityData" : [
+        {
+          "District": "Nilphamari",
+          "Municipality_Name": "Saidpur",
+          "Website": "http:\/\/pourashava.syedpur.nilphamari.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Jaldhaka",
+          "Website": "http:\/\/pourashava.jaldhaka.nilphamari.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Domar",
+          "Website": "http:\/\/pourashava.domar.nilphamari.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Nilphamari",
+          "Mayor": "Md. Dewan Kamal Ahmed",
+          "Website": "https:\/\/nilphamarisadar.nilphamari.gov.bd\/",
+          "Emeregency_Contact_Number ": "01715412446 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.5541606,
+    26.3411
+    ]
+    },
+    "properties": {
+    "id": "31",
+    "division_id": "6",
+    "name": "Panchagarh",
+    "bn_name": "পঞ্চগড়",
+    "lat": "26.3411",
+    "long": "88.5541606",
+    "municipalityData" : [
+        {
+          "District": "Panchagarh",
+          "Municipality_Name": "Debiganj"
+         },
+         {
+          "Municipality_Name": "Boda",
+          "Mayor": "Azahar Ali",
+          "Website": "https:\/\/boda.panchagarh.gov.bd\/",
+          "Emeregency_Contact_Number ": "01712608196 (mayor)"
+         },
+         {
+          "Municipality_Name": "Panchagarh"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.244462,
+    25.7558096
+    ]
+    },
+    "properties": {
+    "id": "32",
+    "division_id": "6",
+    "name": "Rangpur",
+    "bn_name": "রংপুর",
+    "lat": "25.7558096",
+    "long": "89.244462",
+    "municipalityData" : [
+        {
+          "District": "Rangpur",
+          "Municipality_Name": "Badarganj",
+          "Mayor": "Ahasanul Haque Chowdhury Tutul",
+          "Website": "https:\/\/badargonj.rangpur.gov.bd\/",
+          "Email": "bdg.paurashava@gmail.com",
+          "Emeregency_Contact_Number ": "01711062723 (mayor)"
+         },
+         {
+          "Municipality_Name": "Haragach"
+         },
+         {
+          "Municipality_Name": "Pirganj"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.4616834,
+    26.0336945
+    ]
+    },
+    "properties": {
+    "id": "33",
+    "division_id": "6",
+    "name": "Thakurgaon",
+    "bn_name": "ঠাকুরগাঁও",
+    "lat": "26.0336945",
+    "long": "88.4616834",
+    "municipalityData" : [
+        {
+          "District": "Thakurgaon",
+          "Municipality_Name": "Ranisankail",
+          "Mayor": "Md. Mostafir Rahman",
+          "Website": "https:\/\/ranisankail.thakurgaon.gov.bd\/",
+          "Emeregency_Contact_Number ": "01716628397 (mayor)"
+         },
+         {
+          "Municipality_Name": "Pirganj",
+          "Mayor": "Md Akramul Haque",
+          "Website": "https:\/\/pirganj.thakurgaon.gov.bd\/",
+          "Emeregency_Contact_Number ": "01716267992 (mayor)"
+         },
+         {
+          "Municipality_Name": "Thakugaon",
+          "Mayor": "Anjuman Ara Begum",
+          "Website": "https:\/\/thakurgaonsadar.thakurgaon.gov.bd\/",
+          "Email": "thakurgaonpoura@yahoo.com",
+          "Contact Number": "0561-61996",
+          "Emeregency_Contact_Number ": "01719667061 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.1121,
+    22.0953
+    ]
+    },
+    "properties": {
+    "id": "34",
+    "division_id": "1",
+    "name": "Barguna",
+    "bn_name": "বরগুনা",
+    "lat": "22.0953",
+    "long": "90.1121",
+    "municipalityData" : [
+        {
+          "District": "Barguna",
+          "Municipality_Name": "Amtali",
+          "Mayor": "Md. Motiur Rahman",
+          "Website": "https:\/\/amtalimunicipality.gov.bd\/",
+          "Email": "amtalimunicipality@gmail.com",
+          "Emeregency_Contact_Number ": "01321232476 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Barguna",
+          "Mayor": "Advocate Md. Kamrul Ahsan",
+          "Website": "https:\/\/bargunamunicipality.gov.bd\/",
+          "Email": "adv.moharaj.mayorbarguna@gmail.com",
+          "Contact Number": "01712-877047"
+         },
+         {
+          "Municipality_Name": "Patharghata",
+          "Mayor": "Md. Anower Hosen Akon",
+          "Website": "https:\/\/patharghatapourashava.gov.bd\/",
+          "Email": "mayor@patharghatapourashava.gov.bd",
+          "Contact Number": 1716736936,
+          "Emeregency_Contact_Number ": 1715038662
+         },
+         {
+          "Municipality_Name": "Betagi",
+          "Mayor": "A B M Golam Kabir",
+          "Website": "https:\/\/www.betagimunicipality.gov.bd\/",
+          "Email": "mayorbetagi@gmail.com",
+          "Contact Number": 445456060,
+          "Emeregency_Contact_Number ": "01711960210 (Mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.3535,
+    22.701
+    ]
+    },
+    "properties": {
+    "id": "35",
+    "division_id": "1",
+    "name": "Barishal",
+    "bn_name": "বরিশাল",
+    "lat": "22.7010",
+    "long": "90.3535",
+    "municipalityData" : [
+        {
+          "District": "Barishal",
+          "Municipality_Name": "Uzirpur",
+          "Mayor": "Md. Gias Uddin Bepari",
+          "Website": "https:\/\/wazirpur.barisal.gov.bd\/bn\/site\/page\/TUsS-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Contact Number": 1718094027
+         },
+         {
+          "Municipality_Name": "Gouranodi",
+          "Mayor": "Md. Harisur Rahman",
+          "Website": "http:\/\/www.gournadi.barisal.gov.bd\/en\/site\/page\/cFpz-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%8C%E0%A6%B0%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "mayorgournadi@yahoo.com",
+          "Contact Number": "04322-56265",
+          "Emeregency_Contact_Number ": 1749654936
+         },
+         {
+          "Municipality_Name": "Muladi",
+          "Mayor": "Md. Shafiquzzaman",
+          "Website": "https:\/\/www.muladimunicipality.gov.bd\/",
+          "Email": "shafiulalam1978@yahoo.com",
+          "Contact Number": 1713044472
+         },
+         {
+          "Municipality_Name": "Mehendiganj",
+          "Mayor": "Alhaz Kamal Uddin Khan",
+          "Website": "https:\/\/mehendiganjpourashava.gov.bd\/",
+          "Email": "mehendiganjpourashava@gmail.com",
+          "Contact Number": 1711364203
+         },
+         {
+          "Municipality_Name": "Bakerganj",
+          "Mayor": "Md. Lokman Hosen Dakua",
+          "Website": "https:\/\/bakerganj.barisal.gov.bd\/bn\/site\/page\/OuhE-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "bakergonjpourashava@gmail.com",
+          "Contact Number": 1711105361
+         },
+         {
+          "Municipality_Name": "Banaripara",
+          "Mayor": "Advocate Suvash Chandra Shil",
+          "Website": "https:\/\/banaripara.barisal.gov.bd\/bn\/site\/page\/ohOS-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "adv.subashchil@gmail.com",
+          "Contact Number": 433256168,
+          "Emeregency_Contact_Number ": 1711585768
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.648179,
+    22.685923
+    ]
+    },
+    "properties": {
+    "id": "36",
+    "division_id": "1",
+    "name": "Bhola",
+    "bn_name": "ভোলা",
+    "lat": "22.685923",
+    "long": "90.648179",
+    "municipalityData" : [
+        {
+          "District": "Bhola",
+          "Municipality_Name": "Lalmohan",
+          "Mayor": "Hazi Emdadul Islam Tuhin",
+          "Website": "http:\/\/municipility.lalmohan.bhola.gov.bd\/",
+          "Email": "lalmohanpoura1990@gmail.com",
+          "Contact Number": 92575884,
+          "Emeregency_Contact_Number ": 1711939418
+         },
+         {
+          "Municipality_Name": "Charfashion"
+         },
+         {
+          "Municipality_Name": "Bhola",
+          "Mayor": "ALHAZ MOHAMMAD MONIRUZZAMAN",
+          "Website": "https:\/\/bholapourashava.gov.bd\/home\/home_page",
+          "Contact Number": 1715892057
+         },
+         {
+          "Municipality_Name": "Burhanuddin",
+          "Website": "http:\/\/municipility.borhanuddin.bhola.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Daulatkhan",
+          "Website": "http:\/\/ps.doulatkhan.bhola.gov.bd\/",
+          "Email": "daulatkhan.paurashava@gmail.com"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.1987,
+    22.6406
+    ]
+    },
+    "properties": {
+    "id": "37",
+    "division_id": "1",
+    "name": "Jhalokati",
+    "bn_name": "ঝালকাঠি",
+    "lat": "22.6406",
+    "long": "90.1987",
+    "municipalityData" : [
+        {
+          "District": "Jhalokathi",
+          "Municipality_Name": "Nalchhity",
+          "Website": "https:\/\/nalchity.jhalakathi.gov.bd\/bn\/site\/page\/TPsp-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Contact Number": 1715909100
+         },
+         {
+          "Municipality_Name": "Jhalokathi",
+          "Mayor": "Hazi Md. Liakat Ali Talukder",
+          "Website": "https:\/\/www.jhalokathimunicipality.gov.bd\/",
+          "Contact Number": 49863348,
+          "Emeregency_Contact_Number ": 1711393102
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.3298712,
+    22.3596316
+    ]
+    },
+    "properties": {
+    "id": "38",
+    "division_id": "1",
+    "name": "Patuakhali",
+    "bn_name": "পটুয়াখালী",
+    "lat": "22.3596316",
+    "long": "90.3298712",
+    "municipalityData" : [
+        {
+          "District": "Patuakhali",
+          "Municipality_Name": "Kuakata"
+         },
+         {
+          "Municipality_Name": "Bauphal",
+          "Mayor": "Md. Ziaul Haque",
+          "Website": "https:\/\/bauphal.patuakhali.gov.bd\/bn\/site\/page\/K1Af-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Patuakhali",
+          "Mayor": "Mohiuddin Ahmed",
+          "Website": "https:\/\/patuakhalimunicipality.gov.bd\/",
+          "Contact Number": 44162587
+         },
+         {
+          "Municipality_Name": "Galachipa",
+          "Website": "https:\/\/galachipa.patuakhali.gov.bd\/bn\/site\/page\/21Cd-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         },
+         {
+          "Municipality_Name": "Kalapara",
+          "Mayor": "Bipul Chandra Hawlader",
+          "Website": "https:\/\/kalaparapaurashava.com\/",
+          "Contact Number": "88-96001773500"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.972,
+    22.5841
+    ]
+    },
+    "properties": {
+    "id": "39",
+    "division_id": "1",
+    "name": "Pirojpur",
+    "bn_name": "পিরোজপুর",
+    "lat": "22.5841",
+    "long": "89.9720",
+    "municipalityData" : [
+        {
+          "Region": "Barishal",
+          "District": "Pirojpur ",
+          "Municipality_Name": "Mathbaria",
+          "Mayor": "Abdul Kaiyum** (পৌর প্রশাসক)",
+          "Website": "https:\/\/mathbariapourashava.gov.bd\/",
+          "Contact Number": 1708907423
+         },
+         {
+          "Municipality_Name": "Swarupkathi",
+          "Mayor": "Golam Kabir",
+          "Website": "https:\/\/nesarabad.pirojpur.gov.bd\/bn\/site\/page\/4BZe--%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "swarupkatimayor@gmail.com",
+          "Contact Number": 880462756062,
+          "Emeregency_Contact_Number ": "01711350922 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Pirojpur",
+          "Mayor": "Md. Habibur Rahman Malek",
+          "Website": "https:\/\/sadar.pirojpur.gov.bd\/bn\/site\/leaders\/%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%B0-%E0%A6%AE%E0%A7%8B.-%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%95",
+          "Email": "meyorpirojpur@yahoo.com",
+          "Emeregency_Contact_Number ": "01711065831 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Bhandaria",
+          "Mayor": "Md. Faizur Rashid \/ Md. Anower Hossen (পৌর নির্বাহী কর্মকর্তা)",
+          "Website": "https:\/\/bhandariapouroshova.pirojpur.gov.bd\/",
+          "Email": "anowarhossain_1983@yahoo.com",
+          "Contact Number": 1736725461
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    92.2183773,
+    22.1953275
+    ]
+    },
+    "properties": {
+    "id": "40",
+    "division_id": "2",
+    "name": "Bandarban",
+    "bn_name": "বান্দরবান",
+    "lat": "22.1953275",
+    "long": "92.2183773",
+    "municipalityData" : [
+        {
+        "District": "Bandarban",
+        "Municipality_Name": "Lama",
+        "Mayor": "Md Zahirul Islam",
+        "Website": "https:\/\/lama.bandarban.gov.bd\/",
+        "Email": "lamapourasava11@gmail.com",
+        "Emeregency_Contact_Number ": "01550603522 (mayor)"
+       },
+       {
+        "Municipality_Name": "Bandarban",
+        "Mayor": "Md. Samsul Islam",
+        "Website": "https:\/\/sadar.bandarban.gov.bd\/",
+        "Email": "mayorbandarban@gmail.com",
+        "Emeregency_Contact_Number ": "01710939333 (mayor)"
+       },
+       {
+        "District": "Rangamati",
+        "Municipality_Name": "Rangamati",
+        "Mayor": "Md. Akbor Hossain Chowdhury",
+        "Website": "https:\/\/sadar.rangamati.gov.bd\/en\/site\/leaders\/eYhP",
+        "Emeregency_Contact_Number ": "01556468637 (mayor)"
+       },
+       {
+        "Municipality_Name": "Baghaichhari",
+        "Website": "https:\/\/baghaichari.rangamati.gov.bd\/"
+       },
+       {
+        "District": "Khagrachhari",
+        "Municipality_Name": "Matiranga"
+       },
+       {
+        "Municipality_Name": "Khagrachhari"
+       },
+       {
+        "Municipality_Name": "Ramgarh"
+       }
+          ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.1119286,
+    23.9570904
+    ]
+    },
+    "properties": {
+    "id": "41",
+    "division_id": "2",
+    "name": "Brahmanbaria",
+    "bn_name": "ব্রাহ্মণবাড়িয়া",
+    "lat": "23.9570904",
+    "long": "91.1119286",
+    "municipalityData" : [
+        {
+         "District": "Brahmanbaria",
+         "Municipality_Name": "Nabinagar",
+         "Website": "https:\/\/nabinagar.brahmanbaria.gov.bd\/"
+        },
+        {
+         "Municipality_Name": "Akhaura"
+        },
+        {
+         "Municipality_Name": "Brahmanbaria",
+         "Website": "https:\/\/sadar.brahmanbaria.gov.bd\/"
+        },
+        {
+         "Municipality_Name": "Kasba"
+        },
+        {
+         "Municipality_Name": "Bancharampur",
+         "Mayor": "Md. Tofazzol Hosen",
+         "Website": "https:\/\/bancharampur.brahmanbaria.gov.bd\/",
+         "Emeregency_Contact_Number ": "01711955774 (mayor)"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.6712912,
+    23.2332585
+    ]
+    },
+    "properties": {
+    "id": "42",
+    "division_id": "2",
+    "name": "Chandpur",
+    "bn_name": "চাঁদপুর",
+    "lat": "23.2332585",
+    "long": "90.6712912",
+    "municipalityData" : [
+        {
+          "District": "Chandpur",
+          "Municipality_Name": "Matlab"
+         },
+         {
+          "Municipality_Name": "Chengarchar"
+         },
+         {
+          "Municipality_Name": "Faridganj",
+          "Mayor": "Abul Khaer Patwary",
+          "Website": "https:\/\/faridgonj.chandpur.gov.bd\/",
+          "Email": "khayerpatwary@gmail.com",
+          "Emeregency_Contact_Number ": "01736089580 (mayor)"
+         },
+         {
+          "Municipality_Name": "Narayanpur"
+         },
+         {
+          "Municipality_Name": "Chandpur",
+          "Mayor": "Md. NAsir Uddin Ahamed",
+          "Website": "https:\/\/sadar.chandpur.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Haziganj",
+          "Website": "https:\/\/hajiganj.chandpur.gov.bd\/#"
+         },
+         {
+          "Municipality_Name": "Shahrasti",
+          "Website": "https:\/\/shahrasti.chandpur.gov.bd\/en#"
+         },
+         {
+          "Municipality_Name": "Kachua",
+          "Mayor": "Nazmul Alam Sapon",
+          "Website": "https:\/\/kachua.chandpur.gov.bd\/",
+          "Email": "mayorkachuapourashava@gmail.com",
+          "Emeregency_Contact_Number ": "01813282076 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.834073,
+    22.335109
+    ]
+    },
+    "properties": {
+    "id": "43",
+    "division_id": "2",
+    "name": "Chattogram",
+    "bn_name": "চট্টগ্রাম",
+    "lat": "22.335109",
+    "long": "91.834073",
+    "municipalityData" : [
+        {
+        "Region": "Chittagong",
+        "District": "Chittagong",
+        "Municipality_Name": "Dohazari"
+       },
+       {
+        "Municipality_Name": "Rangunia",
+        "Mayor": "Shajan Shikdar",
+        "Website": "https:\/\/rangunia.chittagong.gov.bd\/"
+       },
+       {
+        "Municipality_Name": "Swandip",
+        "Mayor": "Mohammed Moktader Mowla",
+        "Website": "https:\/\/www.sandwippourashava.com\/"
+       },
+       {
+        "Municipality_Name": "Fatikchari",
+        "Mayor": "Alhaj Md. Ismail Hossain",
+        "Website": "https:\/\/fatikchhari.chittagong.gov.bd\/",
+        "Email": "alinoorbrdb@gmail.com",
+        "Contact Number": 302256328,
+        "Emeregency_Contact_Number ": "01819-332398 (mayor)"
+       },
+       {
+        "Municipality_Name": "Hathazari",
+        "Website": "  https:\/\/hathazari.chittagong.gov.bd\/"
+       },
+       {
+        "Municipality_Name": "Boalkhali",
+        "Mayor": "Md. Zahurul Islam",
+        "Website": "https:\/\/boalkhali.chittagong.gov.bd\/",
+        "Email": "mayorboalkhalipourashava2012@gmail.com",
+        "Emeregency_Contact_Number ": "01812-024360 (mayor)"
+       },
+       {
+        "Municipality_Name": "Nazirhat"
+       },
+       {
+        "Municipality_Name": "Mirsharai",
+        "Mayor": "Reazual karim",
+        "Website": "https:\/\/mirsharai.chittagong.gov.bd\/",
+        "Email": "mayor.bpo@gmail.com"
+       },
+       {
+        "Municipality_Name": "Raojan",
+        "Mayor": "Alhaj Md. Ismail Hossain",
+        "Website": "https:\/\/fatikchhari.chittagong.gov.bd\/",
+        "Email": "alinoorbrdb@gmail.com",
+        "Contact Number": 302256328,
+        "Emeregency_Contact_Number ": "01819-332398 (mayor)"
+       },
+       {
+        "Municipality_Name": "Chandanish",
+        "Mayor": "MD. MAHBUBUL ALAM",
+        "Website": "https:\/\/chandanaish.chittagong.gov.bd\/",
+        "Contact Number": 31656503,
+        "Emeregency_Contact_Number ": "01842725960 (mayor)"
+       },
+       {
+        "Municipality_Name": "Patiya",
+        "Website": "https:\/\/patiya.chittagong.gov.bd\/"
+       },
+       {
+        "Municipality_Name": "Bariarhat"
+       },
+       {
+        "Municipality_Name": "Sitakunda",
+        "Mayor": "Shafiul Alam",
+        "Website": "https:\/\/sitakunda.chittagong.gov.bd\/",
+        "Emeregency_Contact_Number ": "01711174855 (mayor)"
+       },
+       {
+        "Municipality_Name": "Satkania"
+       },
+       {
+        "Municipality_Name": "Bashkhali",
+        "Mayor": "Adv. Tofayel Bin Hossain",
+        "Website": "https:\/\/banshkhali.chittagong.gov.bd\/",
+        "Email": "banaskhalipourashava@gmail.com, tufailbinhossain1@gmail.com",
+        "Emeregency_Contact_Number ": "01715197223 (mayor)"
+       }
+          ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.1788135,
+    23.4682747
+    ]
+    },
+    "properties": {
+    "id": "44",
+    "division_id": "2",
+    "name": "Cumilla",
+    "bn_name": "কুমিল্লা",
+    "lat": "23.4682747",
+    "long": "91.1788135",
+    "municipalityData" : [
+        {
+          "Region": "Cumilla",
+          "District": "Cumilla",
+          "Municipality_Name": "Laksham",
+          "Mayor": "Md. Abul Khayer",
+          "Website": "https:\/\/laksam.comilla.gov.bd\/",
+          "Email": "laksammunicipality@yahoo.com",
+          "Contact Number": "08032-51365",
+          "Emeregency_Contact_Number ": "01711-343734 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chouddogram"
+         },
+         {
+          "Municipality_Name": "Daudkandi",
+          "Mayor": "Nayeem Yusuf",
+          "Website": "https:\/\/daudkandi.comilla.gov.bd\/en\/site\/page\/BiVR-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "naim.yousuff@gmail.com",
+          "Contact Number": "08023-55413",
+          "Emeregency_Contact_Number ": "01670916618 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chandina",
+          "Mayor": "Md. Shokhat Hossain Bhuya",
+          "Website": "https:\/\/chandina.comilla.gov.bd\/",
+          "Email": "chandinaps@gmail.com",
+          "Contact Number": "08022-56010",
+          "Emeregency_Contact_Number ": "01818-946393"
+         },
+         {
+          "Municipality_Name": "Debidwar",
+          "Mayor": "Md. Saiful Islam Shamim",
+          "Website": "https:\/\/debidwarpourashava.portal.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Homna",
+          "Mayor": "Adv Md Nazrul Islam",
+          "Website": "https:\/\/homna.comilla.gov.bd\/",
+          "Email": "homna.pourashava@yahoo.com",
+          "Emeregency_Contact_Number ": "01711938561 (mayor)"
+         },
+         {
+          "Municipality_Name": "Barura",
+          "Mayor": "Md. Bakter Hossain",
+          "Website": "https:\/\/barura.comilla.gov.bd\/",
+          "Email": "mayorbarura@gmail.com",
+          "Emeregency_Contact_Number ": "01711185053 (mayor)"
+         },
+         {
+          "Municipality_Name": "Nangalkot",
+          "Mayor": "Abdul Malak",
+          "Website": "https:\/\/nangalkot.comilla.gov.bd\/",
+          "Email": "nktpura@gmail.com",
+          "Contact Number": 803366240,
+          "Emeregency_Contact_Number ": "01712842411 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    92.0058,
+    21.4272
+    ]
+    },
+    "properties": {
+    "id": "45",
+    "division_id": "2",
+    "name": "Cox's Bazar",
+    "bn_name": "কক্স বাজার",
+    "lat": "21.4272",
+    "long": "92.0058",
+    "municipalityData" : [
+        {
+         "District": "Cox's Bazar",
+         "Municipality_Name": "Chakoria",
+         "Website": "https:\/\/chakaria.coxsbazar.gov.bd\/"
+        },
+        {
+         "Municipality_Name": "Cox's Bazar",
+         "Website": "https:\/\/sadar.coxsbazar.gov.bd\/"
+        },
+        {
+         "Municipality_Name": "Teknaf",
+         "Mayor": "Hazi Md. Islam",
+         "Website": "https:\/\/tekpou.gov.bd\/about",
+         "Email": "tekpou20@gmail.com",
+         "Emeregency_Contact_Number ": "01819087630 (mayor)"
+        },
+        {
+         "Municipality_Name": "Moheshkhali",
+         "Website": "https:\/\/moheshkhali.coxsbazar.gov.bd\/"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.3976,
+    23.0159
+    ]
+    },
+    "properties": {
+    "id": "46",
+    "division_id": "2",
+    "name": "Feni",
+    "bn_name": "ফেনী",
+    "lat": "23.0159",
+    "long": "91.3976",
+    "municipalityData" : [
+        {
+          "District": "Feni",
+          "Municipality_Name": "Parshuram",
+          "Mayor": "Nizam Uddin Ahamed Chowdhury",
+          "Website": "https:\/\/parshuram.feni.gov.bd\/",
+          "Emeregency_Contact_Number ": "01828070322 (mayor)"
+         },
+         {
+          "Municipality_Name": "Sonagazi",
+          "Mayor": "Rafikul Islam Khokon",
+          "Website": "https:\/\/sonagazi.feni.gov.bd\/",
+          "Emeregency_Contact_Number ": "01819193659 (mayor)"
+         },
+         {
+          "Municipality_Name": "Feni"
+         },
+         {
+          "Municipality_Name": "Chagalnaiya"
+         },
+         {
+          "Municipality_Name": "Daganbhuiyan",
+          "Mayor": "Omar Faruk Khan",
+          "Website": "https:\/\/daganbhuiyan.feni.gov.bd\/",
+          "Email": "dagonbhuiyanpourashava@gmail.com",
+          "Contact Number": 1926687307,
+          "Emeregency_Contact_Number ": "01926687307 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.984663,
+    23.119285
+    ]
+    },
+    "properties": {
+    "id": "47",
+    "division_id": "2",
+    "name": "Khagrachari",
+    "bn_name": "খাগড়াছড়ি",
+    "lat": "23.119285",
+    "long": "91.984663"
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    90.841184,
+    22.942477
+    ]
+    },
+    "properties": {
+    "id": "48",
+    "division_id": "2",
+    "name": "Lakshmipur",
+    "bn_name": "লক্ষ্মীপুর",
+    "lat": "22.942477",
+    "long": "90.841184",
+    "municipalityData" : [
+        {
+          "District": "Laxpimur",
+          "Municipality_Name": "Ramganj",
+          "Website": "https:\/\/ramganj.lakshmipur.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Laxpimur",
+          "Mayor": "Mozammel Hayder Masum Bhuiyan",
+          "Website": "https:\/\/sadar.lakshmipur.gov.bd\/",
+          "Emeregency_Contact_Number ": "01711824872 (mayor)"
+         },
+         {
+          "Municipality_Name": "Raipur",
+          "Mayor": "Md. Gias Uddin Rubel Bhat",
+          "Website": "https:\/\/raipur.lakshmipur.gov.bd\/",
+          "Email": "rubelbhat@yahoo.com",
+          "Emeregency_Contact_Number ": "01703910303 (mayor)"
+         },
+         {
+          "Municipality_Name": "Ramgati",
+          "Mayor": "M Mejbah Uddin",
+          "Website": "https:\/\/ramgati.lakshmipur.gov.bd\/en\/site\/page\/hvG6-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "ramgatipourashova@gmail.com",
+          "Emeregency_Contact_Number ": "01717296236 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.099398,
+    22.869563
+    ]
+    },
+    "properties": {
+    "id": "49",
+    "division_id": "2",
+    "name": "Noakhali",
+    "bn_name": "নোয়াখালী",
+    "lat": "22.869563",
+    "long": "91.099398",
+    "municipalityData" : [
+        {
+          "District": "Noakhali",
+          "Municipality_Name": "Choumuahani"
+         },
+         {
+          "Municipality_Name": "Noakhali",
+          "Mayor": "Sohid Ullah Khan Sohel",
+          "Website": "https:\/\/sadar.noakhali.gov.bd\/en\/site\/leaders\/1iXs-%E0%A6%9C%E0%A6%A8%E0%A6%BE%E0%A6%AC-%E0%A6%B8%E0%A6%B9%E0%A6%BF%E0%A6%A6-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%96%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%8B%E0%A6%B9%E0%A7%87%E0%A6%B2#",
+          "Email": "sohel786@gmail.com",
+          "Emeregency_Contact_Number ": "01919017358 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chatkhil",
+          "Mayor": "MD.NIZAM UDDIN",
+          "Website": "https:\/\/chatkhil.noakhali.gov.bd\/",
+          "Email": "nizamuddinmayor@gmail.com",
+          "Contact Number": "03222-75015",
+          "Emeregency_Contact_Number ": "01707-570584 (mayor)"
+         },
+         {
+          "Municipality_Name": "Basurhat"
+         },
+         {
+          "Municipality_Name": "Sonaimuri",
+          "Mayor": "Nurul Haque Chowdhary",
+          "Website": "https:\/\/sonaimuri.noakhali.gov.bd\/",
+          "Email": "mayor.sonaimuri@gmail.com",
+          "Contact Number": 322751005,
+          "Emeregency_Contact_Number ": "01715376144 (mayor)"
+         },
+         {
+          "Municipality_Name": "Kabirhat",
+          "Mayor": "Md Jahirul Haque Raihan",
+          "Website": "https:\/\/kabirhat.noakhali.gov.bd\/",
+          "Email": "monjur50@yahoo.com",
+          "Contact Number": 323253007,
+          "Emeregency_Contact_Number ": "01711039089 (mayor)"
+         },
+         {
+          "Municipality_Name": "Senbag",
+          "Mayor": "Abu Naser Dulal",
+          "Website": "https:\/\/senbug.noakhali.gov.bd\/",
+          "Contact Number": "03225-56107",
+          "Emeregency_Contact_Number ": "01712-084118 (mayor)"
+         },
+         {
+          "Municipality_Name": "Hatiya",
+          "Mayor": "KM Obayed Ullah",
+          "Website": "https:\/\/hatia.noakhali.gov.bd\/en\/site\/page\/1ale-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "hatiyauc@gmail.com",
+          "Emeregency_Contact_Number ": "01712215571 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    92.2985,
+    22.7324
+    ]
+    },
+    "properties": {
+    "id": "50",
+    "division_id": "2",
+    "name": "Rangamati",
+    "bn_name": "রাঙ্গামাটি",
+    "lat": "22.7324",
+    "long": "92.2985"
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.41553,
+    24.374945
+    ]
+    },
+    "properties": {
+    "id": "51",
+    "division_id": "7",
+    "name": "Habiganj",
+    "bn_name": "হবিগঞ্জ",
+    "lat": "24.374945",
+    "long": "91.41553",
+    "municipalityData" : [
+        {
+          "Region": "Sylhet",
+          "District": "Habiganj",
+          "Municipality_Name": "Madhabpur",
+          "Mayor": "HABIBUR RAHMAN MANIK",
+          "Website": "https:\/\/madhabpur.habiganj.gov.bd\/",
+          "Emeregency_Contact_Number ": "01715077340 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Sayesthaganj",
+          "Mayor": "M F Ahmed Ali",
+          "Website": "https:\/\/shayestaganj.habiganj.gov.bd\/",
+          "Emeregency_Contact_Number ": "01711142915 (mayor)"
+         },
+         {
+          "Municipality_Name": "Azmiriganj",
+          "Mayor": "MD. Gulam Faruk",
+          "Website": "https:\/\/ajmiriganj.habiganj.gov.bd\/",
+          "Email": "unoajmiriganj@mopa.gov.bd",
+          "Contact Number": 832256094,
+          "Emeregency_Contact_Number ": "01730331139 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Nabiganj",
+          "Mayor": "Sabir Ahmed Chowdhury",
+          "Website": "https:\/\/nabiganj.habiganj.gov.bd\/",
+          "Email": "sabirchowdhury20@gmail.com",
+          "Contact Number": 2996607591,
+          "Emeregency_Contact_Number ": "01819560256 (mayor)"
+         },
+         {
+          "Municipality_Name": "Habiganj",
+          "Mayor": "Md. Mizanur Rahman",
+          "Website": "https:\/\/habiganjsadar.habiganj.gov.bd\/",
+          "Email": "mayorhabiganjpourashava@gmail.com",
+          "Contact Number": "0831-62310",
+          "Emeregency_Contact_Number ": "01711-230420 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chunarughat",
+          "Mayor": "Mohammad Saiful Alam",
+          "Website": "https:\/\/chunarughat.habiganj.gov.bd\/",
+          "Emeregency_Contact_Number ": "01711-951129 (mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.777417,
+    24.482934
+    ]
+    },
+    "properties": {
+    "id": "52",
+    "division_id": "7",
+    "name": "Maulvibazar",
+    "bn_name": "মৌলভীবাজার",
+    "lat": "24.482934",
+    "long": "91.777417",
+    "municipalityData" : [
+        {
+         "District": "Moulovibazar",
+         "Municipality_Name": "Sreemangal",
+         "Website": "https:\/\/sreemangalmunicipality.org\/"
+        },
+        {
+         "Municipality_Name": "Moulovibazar"
+        },
+        {
+         "Municipality_Name": "Kamalganj",
+         "Mayor": "Md. Juwel Ahamed",
+         "Website": "https:\/\/kamolganj.moulvibazar.gov.bd\/",
+         "Emeregency_Contact_Number ": "01752288310 (mayor)"
+        },
+        {
+         "Municipality_Name": "Kulaura",
+         "Mayor": "Shipar uddin Ahmed",
+         "Website": "https:\/\/kulaura.moulvibazar.gov.bd\/",
+         "Emeregency_Contact_Number ": "01712104674 (mayor)"
+        },
+        {
+         "Municipality_Name": "Barlekha",
+         "Mayor": "Abul Imam Md. Kamran Chowdhury",
+         "Website": "https:\/\/barlekha.moulvibazar.gov.bd\/",
+         "Email": "kamran@gmail.com",
+         "Emeregency_Contact_Number ": "01711025456 (mayor)"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.3950115,
+    25.0658042
+    ]
+    },
+    "properties": {
+    "id": "53",
+    "division_id": "7",
+    "name": "Sunamganj",
+    "bn_name": "সুনামগঞ্জ",
+    "lat": "25.0658042",
+    "long": "91.3950115",
+    "municipalityData" : [
+        {
+          "District": "Sunamganj",
+          "Municipality_Name": "Chhatak",
+          "Mayor": "Md.Abul Kalam Chowdhury",
+          "Website": "https:\/\/chhatak.sunamganj.gov.bd\/",
+          "Emeregency_Contact_Number ": "01971315078 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Jagannathpur",
+          "Mayor": "Md. Akther Hosen",
+          "Website": "https:\/\/jagannathpur.sunamganj.gov.bd\/",
+          "Email": "mayor.jagannathpur@gmail.com",
+          "Emeregency_Contact_Number ": "01712051694 (mayor)"
+         },
+         {
+          "Municipality_Name": "Sunamganj",
+          "Mayor": "Md. Nader Bokhot",
+          "Website": "https:\/\/sadar.sunamganj.gov.bd\/",
+          "Email": "sunampoura@yahoo.com",
+          "Emeregency_Contact_Number ": "01795286869 (mayor)"
+         },
+         {
+          "Municipality_Name": "Derai"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    91.8697894,
+    24.8897956
+    ]
+    },
+    "properties": {
+    "id": "54",
+    "division_id": "7",
+    "name": "Sylhet",
+    "bn_name": "সিলেট",
+    "lat": "24.8897956",
+    "long": "91.8697894",
+    "municipalityData" : [
+        {
+          "District": "Sylhet",
+          "Municipality_Name": "Golapganj",
+          "Mayor": "Md Aminul Islam",
+          "Website": "https:\/\/golapganj.sylhet.gov.bd\/",
+          "Email": "golapgonjpourashava@gmail.com",
+          "Emeregency_Contact_Number ": "01711399844 (mayor)"
+         },
+         {
+          "Municipality_Name": "Kanaigat",
+          "Website": "https:\/\/kanaighat.sylhet.gov.bd\/en\/site\/page\/TFLm-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%98%E0%A6%BE%E0%A6%9F-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "luthfur1952@gmail.com",
+          "Emeregency_Contact_Number ": "01712876480  (mayor)"
+         },
+         {
+          "Municipality_Name": "Zakiganj",
+          "Website": "https:\/\/zakiganj.sylhet.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Beanibazar"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.785938,
+    22.651568
+    ]
+    },
+    "properties": {
+    "id": "55",
+    "division_id": "4",
+    "name": "Bagerhat",
+    "bn_name": "বাগেরহাট",
+    "lat": "22.651568",
+    "long": "89.785938",
+    "municipalityData" : [
+        {
+         "District": "Bagerhat",
+         "Municipality_Name": "Morrelganj",
+         "Mayor": "S M Monirul Haque",
+         "Website": "https:\/\/morrelgonjpourasava.org\/",
+         "Email": "morrelgonjpourasava@yahoo.com",
+         "Contact Number": 1917630038
+        },
+        {
+         "Municipality_Name": "Bagerhat",
+         "Mayor": "Khan Habibur Rahman",
+         "Website": "https:\/\/sadar.bagerhat.gov.bd\/bn\/site\/page\/bd4U-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "bgtpoura@gmail.com",
+         "Contact Number": "01726278480 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Mongla",
+         "Mayor": "Sheikh Abdur Rahman",
+         "Website": "https:\/\/www.monglaportmunicipality.gov.bd\/",
+         "Email": "pourashavamongla@yahoo.com",
+         "Contact Number": "04658-73490",
+         "Emeregency_Contact_Number ": "01711-342246"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.841841,
+    23.6401961
+    ]
+    },
+    "properties": {
+    "id": "56",
+    "division_id": "4",
+    "name": "Chuadanga",
+    "bn_name": "চুয়াডাঙ্গা",
+    "lat": "23.6401961",
+    "long": "88.841841",
+    "municipalityData" : [
+        {
+          "District": "Chuadanga",
+          "Municipality_Name": "Alamdanga",
+          "Mayor": "Hasan Kadir Gonu",
+          "Website": "https:\/\/alamdanga.chuadanga.gov.bd\/bn\/site\/page\/OcXl-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Contact Number": "01711310599(পৌর নির্বাহী কর্মকর্তা)",
+          "Emeregency_Contact_Number ": "01711469533 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Chuadanga",
+          "Mayor": "Jahangir Alam Malik",
+          "Website": "https:\/\/chuadangapouroshava.org\/",
+          "Email": "chuadangapourasava@lgd.gov.bd",
+          "Contact Number": 2477787881,
+          "Emeregency_Contact_Number ": 1931249690
+         },
+         {
+          "Municipality_Name": "Jiban Nagar",
+          "Mayor": "Md Rafikul Islam",
+          "Website": "https:\/\/jibannagar.chuadanga.gov.bd\/bn\/site\/page\/gsQX-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "jibonpouro75220@gmail.com",
+          "Contact Number": 762475220,
+          "Emeregency_Contact_Number ": "01718831929 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Darshana"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.2081126,
+    23.16643
+    ]
+    },
+    "properties": {
+    "id": "57",
+    "division_id": "4",
+    "name": "Jashore",
+    "bn_name": "যশোর",
+    "lat": "23.16643",
+    "long": "89.2081126",
+    "municipalityData" : [
+        {
+          "District": "Jashore",
+          "Municipality_Name": "Noapara"
+         },
+         {
+          "Municipality_Name": "Keshabpur",
+          "Mayor": "Rafikul Islam",
+          "Website": "https:\/\/www.keshabpurpouroshava.gov.bd\/",
+          "Email": "kpourashava@gmail.com",
+          "Contact Number": "0641-65531",
+          "Emeregency_Contact_Number ": "01711-314098"
+         },
+         {
+          "Municipality_Name": "Jashore",
+          "Mayor": "Md. Haider Goni Khan Palash",
+          "Website": "https:\/\/www.jashorepourashava.org\/",
+          "Email": "jessorepourashava1@gmail.com",
+          "Contact Number": "88-2477762721"
+         },
+         {
+          "Municipality_Name": "Bagher Para",
+          "Mayor": "Kamruzzaman Bacchu",
+          "Website": "https:\/\/bagherpara.jessore.gov.bd\/bn\/site\/page\/I7zh-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "noemail@gmail.com",
+          "Contact Number": 1718101011
+         },
+         {
+          "Municipality_Name": "Benapol",
+          "Mayor": "Md. Nasir Uddin",
+          "Website": "https:\/\/benapolepaurashava.com\/",
+          "Email": "info@benapolepaurashava.com",
+          "Contact Number": 1921775887
+         },
+         {
+          "Municipality_Name": "Jhikargachha",
+          "Mayor": "Mostofa Anower Pasha Jamal",
+          "Website": "https:\/\/jhikargacha.jessore.gov.bd\/bn\/site\/page\/mc82-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "Jhikargacha.pourashava33@gmail.com",
+          "Contact Number": 1715144768
+         },
+         {
+          "Municipality_Name": "Monirampur",
+          "Mayor": "Kazi Mahmudul Hasan",
+          "Website": "http:\/\/mp.manirampur.jessore.gov.bd\/"
+         },
+         {
+          "Municipality_Name": "Chowgachha",
+          "Mayor": "Md. Nur Uddin Al Mamun Himel",
+          "Website": "https:\/\/chougachha.jessore.gov.bd\/bn\/site\/page\/Ui2d-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "mayorchowgacha@gmail.com",
+          "Contact Number": 1743944433
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.1539213,
+    23.5448176
+    ]
+    },
+    "properties": {
+    "id": "58",
+    "division_id": "4",
+    "name": "Jhenaidah",
+    "bn_name": "ঝিনাইদহ",
+    "lat": "23.5448176",
+    "long": "89.1539213",
+    "municipalityData" : [
+        {
+         "District": "Jhenaidah",
+         "Municipality_Name": "Kotchandpur",
+         "Mayor": "Md. Shahid Uzzaman",
+         "Website": "https:\/\/kotchandpur.jhenaidah.gov.bd\/bn\/site\/page\/E55n-%E0%A6%8F%E0%A6%95%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "salimzaman017@gmail.com",
+         "Contact Number": "04524-65005",
+         "Emeregency_Contact_Number ": "01711329214 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Kaliganj",
+         "Mayor": "Md. Ashraful Alam",
+         "By the Date of Adoption": "28-02-2021",
+         "Date of Taking Office": "25-03-2021",
+         "Website": "https:\/\/kaliganjpaurashava.org\/",
+         "Email": "ashraf.mayor@gmail.com",
+         "Contact Number": "01711071391 (পৌর নির্বাহী কর্মকর্তা)",
+         "Emeregency_Contact_Number ": "01711246659 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Harinakunda",
+         "Mayor": "Md. Faruk Hossen",
+         "Website": "https:\/\/harinakundu.jhenaidah.gov.bd\/bn\/site\/page\/qx0q-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+         "Email": "farukhassainm68@gmail.com",
+         "Contact Number": 452274084,
+         "Emeregency_Contact_Number ": "01718359250 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Maheshpur",
+         "Mayor": "Md. Abdur Rashid Khan",
+         "Website": "https:\/\/maheshpurpourashava.gov.bd\/"
+        },
+        {
+         "Municipality_Name": "Jhenaidah",
+         "Mayor": "Md. Kaiyum Shahriar Jahedi Hizawl",
+         "Website": "http:\/\/jhenaidahpourashava.gov.bd\/",
+         "Email": "hizawl.mayor@gmail.com",
+         "Contact Number": 45162413,
+         "Emeregency_Contact_Number ": "017847124401 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Shailkupa",
+         "Website": "https:\/\/shailkupa.jhenaidah.gov.bd\/bn\/site\/page\/3aLi-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.568679,
+    22.815774
+    ]
+    },
+    "properties": {
+    "id": "59",
+    "division_id": "4",
+    "name": "Khulna",
+    "bn_name": "খুলনা",
+    "lat": "22.815774",
+    "long": "89.568679",
+    "municipalityData" : [
+        {
+          "District": "Khulna",
+          "Municipality_Name": "Paikgacha",
+          "Mayor": "Salim Jahangir",
+          "Website": "https:\/\/paikgasa.khulna.gov.bd\/bn\/site\/page\/T4hG-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A6%97%E0%A6%BE%E0%A6%9B%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "salim.mayor@gmail.com",
+          "Contact Number": 402756287,
+          "Emeregency_Contact_Number ": "01714747474 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Chalna",
+          "Mayor": "Sanat Kumar Biswash",
+          "Website": "http:\/\/pourashava.dakop.khulna.gov.bd\/",
+          "Email": "chalna.paurashava@gmail.com",
+          "Contact Number": 1718767338
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.120482,
+    23.901258
+    ]
+    },
+    "properties": {
+    "id": "60",
+    "division_id": "4",
+    "name": "Kushtia",
+    "bn_name": "কুষ্টিয়া",
+    "lat": "23.901258",
+    "long": "89.120482",
+    "municipalityData" : [
+        {
+          "District": "Kushtia",
+          "Municipality_Name": "Khoksha",
+          "Mayor": "Md. Torikul Islam",
+          "Website": "https:\/\/khoksamunicipality.org\/",
+          "Email": "khoksapaurashava@gmail.com",
+          "Contact Number": "01913692647 , 0702456251",
+          "Emeregency_Contact_Number ": "01718300835 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Kushtia",
+          "Mayor": "Anwar Ali",
+          "Website": "https:\/\/municipality.kushtia.gov.bd\/",
+          "Email": "anwarali.kpbd@gmail.com",
+          "Contact Number": 1733729696,
+          "Emeregency_Contact_Number ": "01711334458 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Kumarkhali",
+          "Mayor": "Md. Shamsuzzaman Arun",
+          "Website": "http:\/\/pourashava.kumarkhali.kushtia.gov.bd\/en",
+          "Email": "shamsuzzamanarun@gmail.com",
+          "Emeregency_Contact_Number ": "01712056026 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Bheramara",
+          "Mayor": "Md. Anwarul Kabir",
+          "Website": "https:\/\/bheramara.kushtia.gov.bd\/bn\/site\/page\/Q5N9-%E0%A6%8F%E0%A6%95%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Contact Number": "akfood.bd@gmail.com",
+          "Emeregency_Contact_Number ": "01711131027 (Mayor)"
+         },
+         {
+          "Municipality_Name": "Mirpur",
+          "Website": "https:\/\/mirpur.kushtia.gov.bd\/en\/site\/page\/htPb-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.419956,
+    23.487337
+    ]
+    },
+    "properties": {
+    "id": "61",
+    "division_id": "4",
+    "name": "Magura",
+    "bn_name": "মাগুরা",
+    "lat": "23.487337",
+    "long": "89.419956",
+    "municipalityData" : [
+        {
+          "District": "Magura",
+          "Municipality_Name": "Magura",
+          "Mayor": "Md. Khurshid hider Tutul",
+          "Website": "https:\/\/www.magurapaurashava.gov.bd\/en\/",
+          "Email": "magura_paurashava@yahoo.com",
+          "Contact Number": "0488-62290"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.631821,
+    23.762213
+    ]
+    },
+    "properties": {
+    "id": "62",
+    "division_id": "4",
+    "name": "Meherpur",
+    "bn_name": "মেহেরপুর",
+    "lat": "23.762213",
+    "long": "88.631821",
+    "municipalityData" : [
+        {
+          "District": "Meherpur",
+          "Municipality_Name": "Gangni"
+         },
+         {
+          "Municipality_Name": "Meherpur",
+          "Mayor": "md. Mahfuzur Rahman Riton",
+          "Website": "https:\/\/www.meherpur.gov.bd\/bn\/site\/page\/Hi05-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2",
+          "Email": "meherpur_municipality@yahoo.com",
+          "Contact Number": 79162329,
+          "Emeregency_Contact_Number ": "01716037638 (Mayor)"
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.512672,
+    23.172534
+    ]
+    },
+    "properties": {
+    "id": "63",
+    "division_id": "4",
+    "name": "Narail",
+    "bn_name": "নড়াইল",
+    "lat": "23.172534",
+    "long": "89.512672",
+    "municipalityData" : [
+        {
+          "Region": "Khulna",
+          "District": "Narail",
+          "Municipality_Name": "Lohagara",
+          "Mayor": "Ashraful Alam**",
+          "Website": "https:\/\/lohagara.narail.gov.bd\/bn\/site\/page\/TwTA-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%97%E0%A7%9C%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "lohagarapoura@gmail.com"
+         },
+         {
+          "Municipality_Name": "Narail",
+          "Mayor": "Anjuman Ara",
+          "Website": "https:\/\/narailsadar.narail.gov.bd\/bn\/site\/page\/sxZo-%E0%A6%AE%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%B0",
+          "Email": "narailpourashava1972@gmail.com",
+          "Contact Number": 1712640675
+         },
+         {
+          "Municipality_Name": "Kalia",
+          "Mayor": "Md. Wahid Uzzaman (Hira)",
+          "Website": "http:\/\/www.kalia.narail.gov.bd\/bn\/site\/page\/e5nE-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A6%B8%E0%A6%AD%E0%A6%BE",
+          "Email": "Kalia.pour76@gmail.com",
+          "Contact Number": 1712262580
+         }
+            ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.0705,
+    22.7185
+    ]
+    },
+    "properties": {
+    "id": "64",
+    "division_id": "4",
+    "name": "Satkhira",
+    "bn_name": "সাতক্ষীরা",
+    "lat": "22.7185",
+    "long": "89.0705",
+    "municipalityData" : [
+        {
+         "District": "Satkhira",
+         "Municipality_Name": "Kalaroa",
+         "Mayor": "Md. Moniruzzaman",
+         "Website": "http:\/\/municipality.kalaroa.satkhira.gov.bd\/",
+         "Email": "kalpou@yahoo.com",
+         "Contact Number": 472475512,
+         "Emeregency_Contact_Number ": "01303090784 (Mayor)"
+        },
+        {
+         "Municipality_Name": "Satkhira",
+         "Mayor": "Kazi Feroz Hasan",
+         "Website": "https:\/\/www.satkhiramunicipality.org.bd\/",
+         "Email": "satkhirapourasava@lgd.gov.bd",
+         "Contact Number": 2477741313
+        }
+           ]
+    }
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    89.0705,
+    22.7185
+    ]
+    },
+    "properties": {
+    "id": "65",
+    "division_id": "4",
+    "name": "Chapai nawabgong",
+    "bn_name": "চাঁপাইনবাবগঞ্জ",
+    "lat": "24.7413",
+    "long": "88.2912",
+    "municipalityData" : [
+        {
+          "Region": "Rajshahi",
+          "District": "Chapai Nawabganj",
+          "Municipality_Name": "Shibganj",
+          "Mayor": "Sayd Monirul Islam",
+          "Website": "https:\/\/shibganj.chapainawabganj.gov.bd\/",
+          "Email": "smislam03@gmail.com",
+          "Contact Number": "07825-75046",
+          "Emeregency_Contact_Number ": "01712135609 (mayor)"
+         },
+         {
+          "Municipality_Name": "Chapai Nawabganj",
+          "Mayor": "Md. Mokhlesur Rahman",
+          "Website": "https:\/\/chapainawabganjsadar.chapainawabganj.gov.bd\/",
+          "Email": "mayor@chapaipoura.gov.bd",
+          "Emeregency_Contact_Number ": "01714049404 (mayor)"
+         },
+         {
+          "Municipality_Name": "Rohanpur"
+         },
+         {
+          "Municipality_Name": "Nachol",
+          "Mayor": "Md. Abdur Roshid",
+          "Website": "https:\/\/nachol.chapainawabganj.gov.bd\/",
+          "Email": "nachol.pourashava@gmail.com",
+          "Contact Number": 1712078179,
+          "Emeregency_Contact_Number ": "01712078179 (mayor)"
+         }
+            ]
+    }
+    }
+    ]
+    }
